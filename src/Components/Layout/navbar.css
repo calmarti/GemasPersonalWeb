@@ -1,0 +1,49 @@
+.navbar {
+  position: absolute;
+  width: 100%;
+  height: var(--navbar-size);
+  background-color: white;
+  font-size: large;
+  font-variant: small-caps;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  z-index: 10;
+}
+
+.logo {
+  float:left;
+  width: 48px;
+  height: 48px;
+  background-image: url("../../../public/img/logo.jpg");
+  background-size: cover;
+  margin-left: 1.5rem;
+  margin-top: 0.4rem;
+}
+
+.navbar > ul {
+  display: flex;
+  margin-left: 2.5rem;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.navbar > ul li {
+  list-style-type: none;
+}
+
+.navbar .hide-dropdown {
+  display: none;
+}
+
+.navbar .show-dropdown {
+  position: absolute;
+  top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color: white;
+  padding: 0.8rem;
+  width: 8rem;
+  margin-left: 2rem;
+}

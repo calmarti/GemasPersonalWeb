@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+
+/* No está importando la font DM-Sans */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size:100%;
+  font:inherit;
+  font-family: "DM-Sans",  Verdana, "Times New Roman";
+  box-sizing: border-box;
+}
+
+:root {
+  --navbar-size:60px;
+}

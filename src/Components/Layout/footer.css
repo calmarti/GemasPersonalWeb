@@ -1,0 +1,21 @@
+.footer {
+  background-color: white;
+  position: relative;
+  padding: 0.7rem 0 0.7rem 0;
+ 
+}
+
+.footer > ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+.footer > ul > li > a, a:link, a:visited a:hover a:active {
+  text-decoration: none;
+  text-decoration-color:currentColor;
+  color: currentColor
+
+}

@@ -1,0 +1,34 @@
+.hero-container {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../../public/img/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;  /* ajustar width de la imagen al del padre: elemento root o body*/
+  position: relative;
+  /* top: var(--navbar-size); */
+  background-position: center, center;
+}
+
+.hero-overlay {
+  width: 100vw;
+  height: 100vh;
+  position: relative; /*  no cambiaría si fuese relative*/
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  color: white;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  font-variant: small-caps;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 2.4rem;
+}
+
+span {
+  font-size: 1rem;
+}
