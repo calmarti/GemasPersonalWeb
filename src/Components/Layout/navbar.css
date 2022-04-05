@@ -1,11 +1,13 @@
 .navbar {
   position: absolute;
+  top:0;    /* esto fue crucial */
   width: 100%;
   height: var(--navbar-size);
   background-color: white;
   font-size: large;
   font-variant: small-caps;
-  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ /*  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5); */
   z-index: 10;
 }
 
@@ -21,13 +23,22 @@
 
 .navbar > ul {
   display: flex;
-  margin-left: 2.5rem;
+  margin-left: 2.4rem;
   gap: 3rem;
   justify-content: center;
 }
 
 .navbar > ul li {
   list-style-type: none;
+  padding:0.3rem;
+}
+
+.navbar > ul li:hover{
+  /*box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+  /* box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; */
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+  padding:0.3rem;
+ 
 }
 
 .navbar .hide-dropdown {
@@ -36,7 +47,7 @@
 
 .navbar .show-dropdown {
   position: absolute;
-  top: 2.5rem;
+  top: 2.8rem;
   display: flex;
   flex-direction: column;
   justify-content: center;

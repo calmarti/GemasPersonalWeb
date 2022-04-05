@@ -1,0 +1,55 @@
+.main{
+  margin-top:0rem;
+  margin-left:3rem;
+  }
+
+.section{
+  margin-top:1rem;
+
+}
+
+.section-heading {
+font-size:125%;
+margin-left:1rem;
+margin-bottom:1.75rem;
+margin-top:3rem
+}
+
+
+.publication-container{
+/* border:solid 1px black; */
+}
+
+.publication-item {
+    display:flex;
+    flex-direction:column;
+    gap:0.45rem;
+    padding:1rem;
+}
+
+p.publication-item:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.authors,
+.publisher,
+.href,
+.doi {
+  display: table;
+
+}
+
+.bold-author{
+font-weight: bold;
+
+}
+
+
+a.metadata , a:link,
+a:focus,
+a:hover,
+a:visited {
+    text-decoration:underline;
+    color: currentColor;
+}

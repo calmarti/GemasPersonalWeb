@@ -6,26 +6,26 @@ export default function Footer() {
       <ul>
         <li>©2022</li>
         <li>
-          <span class="material-icons">
+          <span className="material-icons">
             <a href="mailto:ghmilian@googlemail.com">email</a>
           </span>
         </li>
         <li>
-          <a href="">
-            <i class="fa-brands fa-linkedin-in fa-xl"></i>
+          <a href="https://www.linkedin.com/in/gema-hernandez-milian-a7670514/">
+            <i className="fa-brands fa-linkedin-in fa-xl"></i>
           </a>
         </li>
         <li>
-          <a href="">
-            <i class="fa-brands fa-researchgate fa-xl"></i>
+          <a href="https://www.researchgate.net/profile/Gema-Hernandez-Milian">
+            <i className="fa-brands fa-researchgate fa-xl"></i>
           </a>
         </li>
         <li>
           <a href="https://twitter.com/ghmilian">
-            <i class="fa-brands fa-twitter fa-xl"></i>
+            <i className="fa-brands fa-twitter fa-xl"></i>
           </a>
         </li>
-        <li><a href=""><i class="fa-brands fa-orcid fa-xl"></i></a></li>
+        <li><a href="https://orcid.org/0000-0003-2729-8348"><i className="fa-brands fa-orcid fa-xl"></i></a></li>
       </ul>
     </div>
   );

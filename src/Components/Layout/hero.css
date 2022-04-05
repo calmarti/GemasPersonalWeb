@@ -1,9 +1,10 @@
 .hero-container {
-  width: 100vw;
-  height: 100vh;
+  /* width: 100vw; */
+  /* height: 100vh; */
   background-image: url("../../../public/img/hero.jpg");
   background-repeat: no-repeat;
-  background-size: cover;  /* ajustar width de la imagen al del padre: elemento root o body*/
+  background-size: cover;   /* ajustar width de la imagen al del padre: elemento root o body, bien en esta prop o en la que sea*/
+  /* background-attachment: local; */
   position: relative;
   /* top: var(--navbar-size); */
   background-position: center, center;
