@@ -15,6 +15,8 @@ export default function Section({
 
   console.log("Name: ", boldAuthor);
 
+  const boldAuthorElement = <strong>{boldAuthor}</strong>;
+
   let beforeBoldAuthor = "";
   let afterBoldAuthor = "";
 
@@ -31,13 +33,13 @@ export default function Section({
   }
 
   switch (type) {
-    case "peer-reviewed":
+    case "papers":
       return (
         <div className="publication-container">
           <p className="publication-item">
             <span className="authors">
               {beforeBoldAuthor}
-              <strong>{boldAuthor}</strong>
+              {boldAuthorElement}
               {afterBoldAuthor}
             </span>
             <span className="title">
@@ -52,7 +54,25 @@ export default function Section({
         </div>
       );
     case "reports":
-      return null;
+      return (
+        <div className="publication-container">
+          <p className="publication-item">
+            <span className="authors">
+              {beforeBoldAuthor}
+              {boldAuthorElement}
+              {afterBoldAuthor}
+            </span>
+            <span className="title">
+              <em>{title}</em>.&nbsp;
+            </span>
+            <span className="year">{year}</span>
+            <span className="publisher">{publisher}</span>
+            {/* <a href={href} className="metadata" target="_blank">
+              {doi}
+            </a> */}
+          </p>
+        </div>
+      );
     case "other":
       return null;
     default:

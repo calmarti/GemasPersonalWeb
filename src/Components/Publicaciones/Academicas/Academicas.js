@@ -6,10 +6,14 @@ import dataFile from "../../../academicas.json";
 import Section from "./SectionComponent";
 import "./academicas.css";
 
-const { papers } = dataFile;
+const { papers, reports } = dataFile;
 
-const reports = papers;
+// const reports = papers;
+
 const other = papers;
+
+// TODO: fecha justo después del nombre de los autores y entre paréntesis
+// TODO: DOI o link, poner "DOI:" y ponerlo a continuación del nombre de la publicación
 
 export default function Academicas() {
   return (
@@ -22,7 +26,7 @@ export default function Academicas() {
           </h2>
           {papers.map((item, index) => (
             <Section
-              type="peer-reviewed"
+              type="papers"
               key={index}
               authors={item.authors}
               title={item.title}
@@ -50,8 +54,9 @@ export default function Academicas() {
               doi={item.doi}
             />
           ))}
+        </section>
 
-          <p>
+        {/* <p>
             <strong>Hernandez-Milian, G.</strong> 2010.{" "}
             <em>
               The construction of a bones reference collection for piscivorous
@@ -95,8 +100,7 @@ export default function Academicas() {
             Universidad de Alcalá de Henares, España
             <br />
             <br />
-          </p>
-        </section>
+          </p> */}
 
         <section className="section">
           <h2 className="section-heading">Libros y monografías</h2>

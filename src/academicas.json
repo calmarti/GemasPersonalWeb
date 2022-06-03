@@ -3,7 +3,7 @@
         {
             "authors": "Bentley, J.W., Hines, D.E., Borrett, S.R., Serpetti, N., Hernandez-Milian, G. , Fox, C., Heymans, J.J. y Reid, D.G.",
             "title": "Combining scientific and fishers' knowledge to co-create indicators of food web structure and function",
-            "year": "2020",
+            "year": 2020,
             "publisher": "ICES Journal of Marine Science, 76(7), 2218-2234",
             "href": "https://academic.oup.com/icesjms/article-abstract/76/7/2218/5535676?redirectedFrom=fulltext",
             "doi": "10.1093/icesjms/fsz121"
@@ -11,12 +11,11 @@
         {
             "authors": "Hernandez-Milian, G., Lusher, A., MacGabban S. y Rogan, E.",
             "title": "Microplastics in seal intestines: are they associated with parasite aggregations?",
-            "year": "2019",
+            "year": 2019,
             "publisher": "Marine Pollution Bulletin. 146, 349-354",
             "href": "https://www.sciencedirect.com/science/article/abs/pii/S0025326X1930459X",
             "doi": "10.1016/j.marpolbul.2019.06.014"
         },
-
         {
             "authors": "Lusher, A. y Hernandez-Milian, G.",
             "title": "Microplastic Extraction from Marine Vertebrate Digestive Tracts, Regurgitates and Scats: A Protocol for Researchers from All Experience Levels",
@@ -25,22 +24,48 @@
             "href": "https://bio-protocol.org/e3087",
             "doi": "10.21769/BioProtoc.3086"
         }
-
-
     ],
-
-    "reports":
-    [
-
+    "reports": [
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "The construction of a bones reference collection for piscivorous predators diet",
+            "year": 2010,
+            "publisher": "Internal report, University College Cork, Ireland. 10pp",
+            "href": "",
+            "doi": ""
+        },
+        {
+            "authors": "Hernandez-Milian, G., Goetz, S., Varela-Dopico, C.,Rodríguez Gutiérrez, J., Romon, J., Fuertes Gamundi, J.R., Ulloa, E., Tregenza, N.J.C., Smerdon, A., Otero, M.G., Tato, V., Wang, J., Santos, M.B., López, A., Lago, R., Portela, J. y Pierce, G.J.",
+            "title": "Resultados del estudio a pequeña escala de las interacciones de cetáceos y pesquerías de palangre en las aguas del Atlántico: resultado de las correlaciones ambientales con las capturas y las incidencias de depredación",
+            "year": 2008,
+            "publisher": "",
+            "href": "",
+            "doi": ""
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Arao dos con (Uria aalge ibericus)/Iberian guillemot",
+            "year": 2003,
+            "publisher": "Boletín El Abejaruco 3: 5-6. Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares, España",
+            "href": "",
+            "doi": ""
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Plantas del litoral affectadas por la marea negra/coastal vegetation affected by the oil spill",
+            "year": 2003,
+            "publisher": "Boletín El Abejaruco 3: 9-10. Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares, España",
+            "href": "",
+            "doi": ""
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Monte Louro y Lagoa das Xarfas/Louro Hill and Xarfas Lagoa",
+            "year": "2003",
+            "publisher": "Boletín El Abejaruco 3: 11-12. Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares, España",
+            "href": "",
+            "doi": ""
+        }
     ],
-
-    "other": 
-    
-    [
-
-
-    ]
-
+    "other": []
 }
-
-
