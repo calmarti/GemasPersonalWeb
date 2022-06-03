@@ -53,19 +53,19 @@ h1 > span {
 }
 
 h1 > span:nth-child(1) {
-  animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 1s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 h1 > span:nth-child(2) {
-  animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 1.5s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 h1 > span:nth-child(3) {
-  animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 2s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 h1 > span:nth-child(4) {
-  animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 2.5s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 
@@ -78,8 +78,16 @@ h1 > span:nth-child(4) {
 
 /*hasta aqui snippet de animación */
 
-.subtitle {
-  font-size: 0.94rem;
-  transform: scale(0.94);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+@keyframes subtitle {
+  from {left: -300px;}
+  to {left: 10px;}
 }
+.subtitle {
+  position: relative;
+  top:-1.25rem;
+  font-size: 0.94rem;
+/*   transform: subtitle(0.94); */
+  animation: subtitle 1.6s  forwards cubic-bezier(0.5, 1, 0.89, 1);
+  padding-right:1rem;
+}
+
