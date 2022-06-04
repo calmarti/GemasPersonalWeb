@@ -6,6 +6,9 @@ export default function Section({
   publisher,
   href,
   doi,
+  project,
+  sponsor,
+  pages
 }) {
   const regex = /Hernandez-Milian, G./i; /* | Hernandez, G. */
   // const boldAuthor = "Hernandez-Milian, G."
@@ -44,16 +47,16 @@ export default function Section({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}
+              {afterBoldAuthor}.
             </span>
             &nbsp;
             <span className="title">
-              <em>{title}</em>
+              <em>{title}</em>.
             </span>
             &nbsp;
-            <span className="year">{year}</span>
+            <span className="year">{year}.</span>
             &nbsp; 
-            <span className="publisher">{publisher}</span>
+            <span className="publisher">{publisher}.</span>
             &nbsp;
             <a href={href} className="metadata" target="_blank">
               {doi}
@@ -69,16 +72,25 @@ export default function Section({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}
+              {afterBoldAuthor}.
             </span>
+            &nbsp;
             <span className="title">
-              <em>{title}</em>.&nbsp;
+              <em>{title}.</em>
             </span>
-            <span className="year">{year}</span>
-            <span className="publisher">{publisher}</span>
-            {/* <a href={href} className="metadata" target="_blank">
-              {doi}
-            </a> */}
+            &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
+            <span className="publisher">{publisher}.</span>
+            &nbsp;
+            <a href={href} className="metadata" target="_blank">
+              {href}. {/*eliminar el href condicionado a que exista en el item */}
+            </a>
+            &nbsp;
+            <span className="project">{project}.</span>
+            &nbsp;
+            <span className="sponsor">{sponsor}.</span>
+            <span className="pages">{pages}</span>
           </p>
         </div>
       );

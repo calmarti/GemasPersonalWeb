@@ -51,7 +51,9 @@ export default function Academicas() {
               year={item.year}
               publisher={item.publisher}
               href={item.href}
-              doi={item.doi}
+              project={item.Project}
+              sponsor={item.sponsor}
+              pages={item.Pages}
             />
           ))}
         </section>
