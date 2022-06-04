@@ -8,17 +8,23 @@ export default function Section({
   doi,
   project,
   sponsor,
-  pages
+  pages,
+  institution,
+  spanish,
 }) {
-  const regex = /Hernandez-Milian, G./i; /* | Hernandez, G. */
-  // const boldAuthor = "Hernandez-Milian, G."
+
+  
+  let regex = /Hernandez-Milian, G./i;
+
+  if (spanish) {
+    regex = /Hernández Milián, G./i;
+  }
 
   const boldAuthor = authors.match(regex)[0];
   const indexBoldAuthor = authors.search(regex);
-  console.log('index', indexBoldAuthor)
 
-  console.log("Name: ", boldAuthor);
-  
+  /*console.log("Name: ", boldAuthor); */
+
   const boldAuthorElement = <strong>{boldAuthor}</strong>;
 
   let beforeBoldAuthor = "";
@@ -27,15 +33,15 @@ export default function Section({
   if (authors.includes(boldAuthor)) {
     if (authors.startsWith(boldAuthor)) {
       afterBoldAuthor = authors.slice(boldAuthor.length);
-      console.log('after', afterBoldAuthor)
+      /* console.log('after', afterBoldAuthor) */
     } else if (authors.endsWith(boldAuthor)) {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      console.log('before', beforeBoldAuthor);
+      /* console.log('before', beforeBoldAuthor); */
     } else {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      console.log('before', beforeBoldAuthor);
+      /* console.log('before', beforeBoldAuthor); */
       afterBoldAuthor = authors.slice(indexBoldAuthor + boldAuthor.length);
-      console.log('after', afterBoldAuthor)
+      /* console.log('after', afterBoldAuthor) */
     }
   }
 
@@ -55,13 +61,12 @@ export default function Section({
             </span>
             &nbsp;
             <span className="year">{year}.</span>
-            &nbsp; 
+            &nbsp;
             <span className="publisher">{publisher}.</span>
             &nbsp;
             <a href={href} className="metadata" target="_blank">
               {doi}
             </a>
-          
           </p>
         </div>
       );
@@ -84,7 +89,8 @@ export default function Section({
             <span className="publisher">{publisher}.</span>
             &nbsp;
             <a href={href} className="metadata" target="_blank">
-              {href}. {/*eliminar el href condicionado a que exista en el item */}
+              {href}.{" "}
+              {/*eliminar el href condicionado a que exista en el item */}
             </a>
             &nbsp;
             <span className="project">{project}.</span>
@@ -94,8 +100,30 @@ export default function Section({
           </p>
         </div>
       );
-    case "other":
-      return null;
+    case "books":
+      return (
+        <div className="publication-container">
+          <p className="publication-item">
+            <span className="authors">
+              {beforeBoldAuthor}
+              {boldAuthorElement}
+              {afterBoldAuthor}.
+            </span>
+            &nbsp;
+            <span className="title">
+              <em>{title}.</em>
+            </span>
+            &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
+            <span className="publisher">{publisher}.</span>
+            &nbsp;
+            <span className="institution">{institution}.</span>
+
+          </p>
+        </div>
+      );
+
     default:
       return "Section with no items yet";
   }

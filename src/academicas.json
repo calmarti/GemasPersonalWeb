@@ -281,5 +281,57 @@
             "Pages": "51"
         }
     ],
-    "other": []
+
+    "books": [
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Arao dos cons (Uria aalge ibericus)",
+            "year": "2003",
+            "publisher": "Abejaruco 3, 5-6",
+            "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Plantas del litoral afectadas por la marea negra",
+            "year": "2003",
+            "publisher": "Abejaruco 3, 9-10",
+            "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Monte Louro y Lagoa das Xarfas",
+            "year": "2003",
+            "publisher": "Abejaruco 3, 11-12",
+            "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Un día en \"O Campiño\"",
+            "year": "2003",
+            "publisher": "Abejaruco 3, 13-14",
+            "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Flora del Parque Natural de Monfragüe",
+            "year": "2002",
+            "publisher": "Boletín para la excursión al Parque Natural de Monfragüe 8-10 marzo",
+            "institution": "Asociación Obradoiro Ambiental Oureol, Universidade de Santiago de Compostela"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Historia del Parque Natural de Monfragüe",
+            "year": "2002",
+            "publisher": "Boletín para la excursión al Parque Natural de Monfragüe 8-10 marzo",
+            "institution": "Asociación Obradoiro Ambiental Oureol, Universidade de Santiago de Compostela"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Parque Natural de Corrubedo",
+            "year": "2001",
+            "publisher": "Abejaruco 2, 7-8",
+            "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
+        }
+
+    ]
 }
