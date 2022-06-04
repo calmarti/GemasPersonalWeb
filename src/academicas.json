@@ -1,28 +1,183 @@
 {
-    "papers": [
+    "journals": [
         {
-            "authors": "Bentley, J.W., Hines, D.E., Borrett, S.R., Serpetti, N., Hernandez-Milian, G. , Fox, C., Heymans, J.J. y Reid, D.G.",
+            "authors": "Bentley, J.W., Hines, D.E., Borrett, S.R., Serpetti, N., Hernandez-Milian, G., Fox, C., Heymans, J.J. y Reid, D.G.",
             "title": "Combining scientific and fishers' knowledge to co-create indicators of food web structure and function",
-            "year": 2020,
-            "publisher": "ICES Journal of Marine Science, 76(7), 2218-2234",
-            "href": "https://academic.oup.com/icesjms/article-abstract/76/7/2218/5535676?redirectedFrom=fulltext",
+            "year": "2020",
+            "publisher": "ICES journal of Marine Science, 76(7), 22218-2234",
+            "href": "https://academic.oup.com/icesjms/article/76/7/2218/5535676",
             "doi": "10.1093/icesjms/fsz121"
         },
         {
-            "authors": "Hernandez-Milian, G., Lusher, A., MacGabban S. y Rogan, E.",
+            "authors": "Hernandez-Milian, G., Lusher, A. MacGabban, S y Rogan, E.",
             "title": "Microplastics in seal intestines: are they associated with parasite aggregations?",
-            "year": 2019,
+            "year": "2019",
             "publisher": "Marine Pollution Bulletin. 146, 349-354",
             "href": "https://www.sciencedirect.com/science/article/abs/pii/S0025326X1930459X",
             "doi": "10.1016/j.marpolbul.2019.06.014"
         },
         {
-            "authors": "Lusher, A. y Hernandez-Milian, G.",
-            "title": "Microplastic Extraction from Marine Vertebrate Digestive Tracts, Regurgitates and Scats: A Protocol for Researchers from All Experience Levels",
-            "year": 2018,
+            "authors": "Panti, C., Baini, M., Lusher, A., Hernandez-Milian, G., Bravo Rebolledo, E.L., Unger, B., Syberg, K., Simmonds, M.P. y Fossi, M.C.",
+            "title": "Marine litter: One of the major threats for marine mammals. Outcomes from the European Cetacean Society workshop",
+            "year": "2019",
+            "publisher": "Environmental Pollution, 247, 72-79",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S026974911834692X",
+            "doi": "10.1016/j.envpol.2019.01.029"
+        },
+        {
+            "authors": "Lusher, A. y Hernandez-Milian, G. ",
+            "title": "Microplastic extraction from marine vertebrate digestive tracts, regurgitates and scats: a protocol for researchers from all experience levels",
+            "year": "2018",
             "publisher": "Bio-protocol, 8(22), e3087",
             "href": "https://bio-protocol.org/e3087",
             "doi": "10.21769/BioProtoc.3086"
+        },
+        {
+            "authors": "Lusher, A., Hernandez-Milian, G., Berrow, S., Rogan, E. y O'Connor, I. ",
+            "title": "Incidence of marine debris in cetaceans stranded and bycaught in Ireland: recent findisng and a review of historical knowledge",
+            "year": "2018",
+            "publisher": "Environmental Pollution, 232, 467-476",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0269749117325204",
+            "doi": "10.1016/j.envpol.2017.09.070"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A., O'Brien, J., Fernandez, A., Berrow, S. y Rogan, E.",
+            "title": "New information on the deep-diving True's beaked whale (Mesoplodon mirus G. 1850) in Ireland with insights into foraging ecology on mesopelagic prey",
+            "year": "2017",
+            "publisher": "Marine Mammal Science, 33(4), 1245-1254",
+            "href": "https://onlinelibrary.wiley.com/doi/10.1111/mms.12430",
+            "doi": "10.1111/mms.12430"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A., Marrinan, M.I., O'Brien, J., Berrow, S., Rogan, E., Nykänen, M., Bennison, A. y O'Connell, M.",
+            "title": "A rare stranding of a female killer whale (Orcinus orca) on the south coast of Ireland",
+            "year": "2017",
+            "publisher": "The Irish Naturalists' Journal, 35(2), 149-150",
+            "href": "https://www.jstor.org/stable/44577851"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A., MacGabhann, S., Gosch, M., O'Connor, I., Cronin, M. y Rogan, E.",
+            "title": "First report of microplastics in bycaught pinnipeds?",
+            "year": "2017",
+            "publisher": "Fate and Impact of Microplastics in Marine Ecosystems: From the Coastline to the Open Sea (Conference Proceedings MICRO 2016), 124-125 ",
+            "href": "https://www.sciencedirect.com/science/article/pii/B9780128122716001228",
+            "doi": "10.1016/B978-0-12-812271-6.00122-8"
+        },
+        {
+            "authors": "Lusher, A., Hernandez-Milian, G., Berrow, S., Rogan, E. y O'Connor, I. ",
+            "title": "Microplastics and marine mammals: studies from ireland",
+            "year": "2017",
+            "publisher": "Fate and Impact of Microplastics in Marine Ecosystems: From the Coastline to the Open Sea (Conference Proceedings MICRO 2016), 37",
+            "href": "https://www.sciencedirect.com/science/article/pii/B9780128122716000375",
+            "doi": "10.1016/B978-0-12-812271-6.00037-5"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Santos, M.B., Reid, D. y Rogan, E.",
+            "title": "Insight into the diet of Atlantic white-sided dolphins (Lagenorhynchus acutus) in the Northeast Atlantic",
+            "year": "2016",
+            "publisher": "Marine Mammal Science, 32(2), 735-742",
+            "href": "https://onlinelibrary.wiley.com/doi/10.1111/mms.12272",
+            "doi": "10.1111/mms.12272"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Santos, M.B., Berow, S., Reid, D. y Rogan, E.",
+            "title": "Insights into the trophic ecology of bottlenose dolphin (Tursiops truncatus) in Irish waters",
+            "year": "2015",
+            "publisher": "Aquatic mammals, 41(2), 226-239",
+            "href": "https://www.aquaticmammalsjournal.org/index.php?option=com_content&view=article&id=726:insights-into-the-trophic-ecology-of-bottlenose-dolphins-tursiops-truncatus-in-irish-waters&catid=59&Itemid=157",
+            "doi": "10.1578/AM.41.2.2015.226"
+        },
+        {
+            "authors": "Lusher, A., Hernandez-Milian, G., O'Brien, J., Berrow, S., O'Connor, I. y Officer, R.",
+            "title": "Microplastic and macroplastic ingestion by a deep diving, oceanic cetacean: the True's beaked whale Mesoplodon mirus",
+            "year": "2015",
+            "publisher": "Environmental Pollution, 0199, 185-191",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0269749115000421",
+            "doi": "10.1016/j.envpol.2015.01.023"
+        },
+        {
+            "authors": "Morell, M., Lenoir, M., Shdwick, R.E., Jauniaux, T., Dabin, W., Begeman, L., Ferreira, M., Maestre, I, Degollada, E., Hernandez-Milian, G., Cazevielle, C., Fortuño, J.-M., Vogl, W., Puel, J.-L. y André, M.",
+            "title": "Ultrastructure of the Odontocete organ of Corti: scanning and transmission electron microscopy",
+            "year": "2015",
+            "publisher": "The Journal of Comparative Neurology, 523(3), 431-448",
+            "href": "https://pubmed.ncbi.nlm.nih.gov/25269663/",
+            "doi": "10.1002/cne.23688"
+        },
+        {
+            "authors": "Whooley, P., Hernandez-Milian, G. y Berrow, S. ",
+            "title": "Mackerel (Scomber scombrus Linneaus, 1758) in the diet of a long-finned pilot whale",
+            "year": "2015",
+            "publisher": "The Irish Naturalists' Journal, 34(2), 150-151",
+            "href": "https://www.jstor.org/stable/44577815"
+        },
+        {
+            "authors": "Gosch, M., Hernandez-Milian, G., Rogan, E., Jessopp, M. y Cronin, M.",
+            "title": "Grey seal diet analysis in ireland highlights the importance of using multiple diagnostic features",
+            "year": "2014",
+            "publisher": "Aquatic Biology, 20, 155-167",
+            "href": "https://www.int-res.com/abstracts/ab/v20/n2/p155-167/",
+            "doi": "10.3354/ab00553"
+        },
+        {
+            "authors": "McAllen, R., Hernandez-Milian, G., Rogan, E., Geaney, C., Kelly, A. y Kearney, T.",
+            "title": "First record of a cetacean (common dolphin Delphinus delphis) within the marine nature reserve at Lough Hyne, Co. Cork",
+            "year": "2014",
+            "publisher": "The Irish Naturalists' Journal, 33(2), 100-101",
+            "href": "https://www.jstor.org/stable/24393600"
+        },
+        {
+            "authors": "Curran, E., hernandez-Milian, G., Rogan, E. y Whooley, P.",
+            "title": "Common dolphins in River Lee at Cork City",
+            "year": "2014",
+            "publisher": "The Irish Naturalists' Journal, 33(2), 142",
+            "href": "https://www.jstor.org/stable/24393621?refreqid=excelsior%3A3197fcf3fff1c92d1a264ef4b34bb9ee"
+        },
+        {
+            "authors": "Pierce, G.J., Hernandez-Milian, G., Santos, M.B., Dendrinos, P., Pasaradellis, M., Tounta, E., Androukaki, E. y Edridge, A.",
+            "title": "Diet of the Monk Seal (Monachus monachus) in Greek Waters",
+            "year": "2011",
+            "publisher": "Aquatic Mammals, 37(3), 284-297",
+            "href": "https://www.aquaticmammalsjournal.org/index.php?option=com_content&view=article&id=550:diet-of-the-monk-seal-monachus-monachus-in-greek-waters&catid=38:volume-37-issue-3&Itemid=123",
+            "doi": "10.1578/AM.37.3.2011.284"
+        },
+        {
+            "authors": "Hernandez-Milian, G y Rogan, E.",
+            "title": "Unusual feeding of bottlenose dolphin (Tursiops truncatus Montagu, 1820) on dogfish (Scyliorhinus spp. L., 1758)",
+            "year": "2011",
+            "publisher": "The Irish Naturalists' Journal, 31(2), 136-137",
+            "href": "https://www.jstor.org/stable/41419126"
+        },
+        {
+            "authors": "Guerra, A., Pierce, G.J., Santos, M.B., Gonzalez, A., Hernandez-Milian, G., Porteiro, C. y Patiño, B.",
+            "title": "Record of the largest specimen of neon flying squid Ommastrephes bartramii (Cephalopoda: Ommastrephidae)",
+            "year": "2010",
+            "publisher": "Iberus, 28(1), 61-66",
+            "href": "https://www.researchgate.net/publication/360082400_Record_of_the_largest_specimen_of_neon_flying_squid_Ommastrephes_bartramii_Cephalopoda_Ommastrephidae_Registro_del_mayor_ejemplar_de_pota_saltadora_Ommastrephes_bar-_tramii_Cephalopoda_Ommastrephidae",
+            "doi": "10.5281/zenodo.4552768"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Goetz, S., Varela-Dopico, C., Rodriguez-Gutierrez, J., Romon-Olea, J., Fuertes-Gamundi, J.R., Ulloa-Alonso, E., Treguenza, N.J.C., Smerdon, A., Otero, M.G., Tato, V., Wang, J., Santos, M.B., López, A., Lago, R., Portela, J. y Pierce, G.J.",
+            "title": "Results of a short study of interactions of cetaceans and longline fisheries in Atlantic waters: environmental  correlates of catches and depredation events",
+            "year": "2008",
+            "publisher": "Hydrobiologia, 612(1), 251-268",
+            "href": "https://link.springer.com/chapter/10.1007/978-1-4020-9141-4_19",
+            "doi": "10.1007/978-1-4020-9141-4_19"
+        },
+        {
+            "authors": "Bulling, M.T., Solan, M., Dyson, K.E., Hernandez-Milian, G., Lastra, P., Pierce, G.J., Raffaelli, D.G., Paterson, D.M. y White, P.C.L.",
+            "title": "Species effects on ecosystem processes are modified by faunal responses to habitat COMPOSITION",
+            "year": "2008",
+            "publisher": "Oecologia, 158, 511-520",
+            "href": "https://link.springer.com/article/10.1007/s00442-008-1160-5",
+            "doi": "10.1007/s00442-008-1160-5"
+        },
+        {
+            "authors": "Dyson, K., Bulling, M.T., Solan, M., Hernandez-Milian, G., Raffaelli, D.G., White, P.C.L. y Paterson, D.M.",
+            "title": "Influence of macrofaunal assemblages and environmental heterogeneity on microphytobenthic production in experimental systems",
+            "year": "2007",
+            "publisher": "Proceedings of the Royal Society B, 274, 2677-2684",
+            "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2275895/",
+            "doi": "10.1098/rspb.2007.0922"
         }
     ],
     "reports": [

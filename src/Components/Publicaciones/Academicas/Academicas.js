@@ -6,11 +6,11 @@ import dataFile from "../../../academicas.json";
 import Section from "./SectionComponent";
 import "./academicas.css";
 
-const { papers, reports } = dataFile;
+const { journals, reports } = dataFile;
 
 // const reports = papers;
 
-const other = papers;
+const other = journals;
 
 // TODO: fecha justo después del nombre de los autores y entre paréntesis
 // TODO: DOI o link, poner "DOI:" y ponerlo a continuación del nombre de la publicación
@@ -24,9 +24,9 @@ export default function Academicas() {
           <h2 className="section-heading">
             Publicaciones en revistas arbitradas
           </h2>
-          {papers.map((item, index) => (
+          {journals.map((item, index) => (
             <Section
-              type="papers"
+              type="journals"
               key={index}
               authors={item.authors}
               title={item.title}

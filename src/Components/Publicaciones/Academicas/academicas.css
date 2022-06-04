@@ -21,8 +21,8 @@ margin-top:3rem
 }
 
 .publication-item {
-    display:flex;
-    flex-direction:column;
+/*     display:flex;
+    flex-direction:column; */
     gap:0.45rem;
     padding:1rem;
 }
@@ -32,13 +32,13 @@ p.publication-item:hover{
 }
 
 
-.authors,
+/* .authors,
 .publisher,
 .href,
 .doi {
   display: table;
 
-}
+} */
 
 .bold-author{
 font-weight: bold;
