@@ -10,7 +10,7 @@ export default function Hero() {
           <span>Milián,</span>
           <span>PhD</span>
         </h1>
-        <span class="subtitle">
+        <span className="subtitle">
           Bióloga marina especializada en ecología trófica y microplásticos
         </span>
       </div>

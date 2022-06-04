@@ -2,11 +2,11 @@
 
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
-import dataFile from "../../../academicas.json";
-import Section from "./SectionComponent";
-import "./academicas.css";
+import data from "../../../data.json";
+import Section from "./SectionAcademicas";
+import "../../Layout/section.css";
 
-const { journals, reports, books } = dataFile;
+const { journals, reports, books } = data;
 
 const other = journals;
 
