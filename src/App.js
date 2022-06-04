@@ -3,7 +3,6 @@ import Home from "./Components/Home/Home";
 import Investigacion from "./Components/Investigacion/Investigacion";
 import Academicas from "./Components/Publicaciones/Academicas/Academicas";
 import Docencia from "./Components/Docencia/Docencia";
-import Colaboraciones from "./Components/Colaboraciones/Colaboraciones";
 import Asesorias from "./Components/Asesorias/Asesorias";
 import NotFound from "./NotFound";
 
@@ -13,10 +12,8 @@ function App() {
     <Routes>
       <Route path="/investigacion" element={<Investigacion />} />
       <Route path="/publicaciones/academicas" element={<Academicas />} />
-
-      <Route path="/docencia" element={<Docencia />} />
-      <Route path="/colaboraciones" element={<Colaboraciones />} />
-      <Route path="/asesorias" element={<Asesorias />} />
+      <Route path="/docencia" element={<Docencia />} />      
+      <Route path="/asesorias-y-colaboraciones" element={<Asesorias />} />
       <Route exact path="/" element={<Home />} />
       <Route element={<NotFound />} />
     </Routes>

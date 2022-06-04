@@ -7,7 +7,7 @@ export default function Hero() {
         <h1 className="animated-title">
           <span>Gema</span>
           <span>Hernández</span>
-          <span>Milián, </span>
+          <span>Milián,</span>
           <span>PhD</span>
         </h1>
         <span class="subtitle">

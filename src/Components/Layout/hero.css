@@ -65,7 +65,7 @@ h1 > span:nth-child(3) {
 }
 
 h1 > span:nth-child(4) {
-  animation: fade-in 2.5s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 2s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 

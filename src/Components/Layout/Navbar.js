@@ -42,9 +42,8 @@ export default function Navbar() {
       ],
     },
     { title: "Docencia", slug: "/docencia" },
-    { title: "Colaboraciones", slug: "/colaboraciones" },
-    { title: "Asesorías", slug: "/asesorias" },
-  ];
+    { title: "Asesorias y Colaboraciones", slug: "/asesorias-y-colaboraciones" },
+    ];
 
   return (
     <nav className="navbar">
