@@ -10,10 +10,10 @@ export default function Section({
   sponsor,
   pages,
   institution,
+  workshop,
+  tipo,
   spanish,
 }) {
-
-  
   let regex = /Hernandez-Milian, G./i;
 
   if (spanish) {
@@ -119,7 +119,28 @@ export default function Section({
             <span className="publisher">{publisher}.</span>
             &nbsp;
             <span className="institution">{institution}.</span>
-
+          </p>
+        </div>
+      );
+    case "workshops":
+      return (
+        <div className="publication-container">
+          <p className="publication-item">
+            <span className="authors">
+              {beforeBoldAuthor}
+              {boldAuthorElement}
+              {afterBoldAuthor}.
+            </span>
+            &nbsp;
+            <span className="title">
+              <em>{title}.</em>
+            </span>
+            &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
+            <span className="workshop">{workshop}.</span>
+            &nbsp;
+            <span className="tipo">{tipo}</span>
           </p>
         </div>
       );

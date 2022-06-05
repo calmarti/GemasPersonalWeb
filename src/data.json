@@ -332,171 +332,272 @@
             "institution": "Grupo Ornitológico ALCEDO, Universidad de Alcalá de Henares"
         }
     ],
-    
     "proyectos": [
-
         {
             "nombre": "Análisis de las campañas de acústica y datos pesqueros en relación a la biodiversidad de peces y cefalópodos",
             "institucion": "Centro Oceanográfico de Vigo-CSIC",
-            "Cargo": "Titulado superior de actividades técnicas y profesionales",
-            "Fecha": "1 de julio de 2021"
+            "cargo": "Titulado superior de actividades técnicas y profesionales",
+            "fecha": "1 de julio de 2021"
         },
         {
             "nombre": "Campaña científica IBWSS0222",
             "Código": "IBWSS0222",
             "institucion": "Centro Oceanográfico de Vigo-CSIC",
-            "Cargo": "Observador científico",
-            "Fecha": "feb-mar 2022",
-            "Funded": "CEMP-FEMP"
+            "cargo": "Observador científico",
+            "fecha": "feb-mar 2022",
+            "sponsor": "CEMP-FEMP"
         },
         {
             "nombre": "Campaña científica IBERAS0921",
             "Código": "IBERAS 2021",
             "institucion": "Centro Oceanográfico de Vigo-CSIC",
-            "Cargo": "Observador científico",
-            "Fecha": "sep-oct 2021",
-            "Funded": "CEMP-FEMP"
+            "cargo": "Observador científico",
+            "fecha": "sep-oct 2021",
+            "sponsor": "CEMP-FEMP"
         },
         {
             "nombre": "MISTIC SEAS III - Developing a coordinated approach for assessing Descriptor 4 via its linkages with D1 and other relevant descriptors in the Macaronesian sub-region",
             "institucion": "Centro Oceanográfico de Vigo-CSIC",
-            "Cargo": "Titulado superior de actividades técnicas y profesionales",
-            "Fecha": "1/01/2021-31/07/2021",
-            "Funded": "MSFD 2018 call Europe",
-            "Grants": "215,734.00 €"
+            "cargo": "Titulado superior de actividades técnicas y profesionales",
+            "fecha": "1/01/2021-31/07/2021",
+            "sponsor": "MSFD 2018 call Europe",
+            "grants": "215,734.00 €"
         },
         {
             "nombre": "MISTIC SEAS III - Developing a coordinated approach for assessing Descriptor 4 via its linkages with D1 and other relevant descriptors in the Macaronesian sub-region",
             "institucion": "Instituto de Investigaciones Marinas-CSIC",
-            "Cargo": "Titulado superior de actividades técnicas y profesionales",
-            "Fecha": "1/11/2019-31/12/2020",
-            "Funded": "MSFD 2018 call Europe",
-            "Grants": "215,734.00 €"
+            "cargo": "Titulado superior de actividades técnicas y profesionales",
+            "fecha": "1/11/2019-31/12/2020",
+            "sponsor": "MSFD 2018 call Europe",
+            "grants": "215,734.00 €"
         },
         {
             "nombre": "MPAs for a Mediterranean free from litter (PLASTIC-BUSTERS )",
             "institucion": "Archipelagos, -environment & development/Hellenic Centre for Marine Research (HCMR)",
-            "Cargo": "Research fellow",
-            "Fecha": "2019",
-            "Funded": "MSFD 2018 call Europe",
-            "Grants": "5,000,000.00 €"
+            "cargo": "Research fellow",
+            "fecha": "2019",
+            "sponsor": "MSFD 2018 call Europe",
+            "grants": "5,000,000.00 €"
         },
         {
             "nombre": "Fisheries Knowledge for optimal Sustainable management (FishKOSM)",
             "Código": "Project 15/S/744",
             "institucion": "University College Cork, Irlanda",
-            "Cargo": "Research fellow",
-            "Fecha": "2017-2018",
-            "Funded": "Department  of  Agriculture,  Food  and  the  Marine’s  competitive  research  funding  programmes ",
-            "Grants": "1,488,744.00 €"
+            "cargo": "Research fellow",
+            "fecha": "2017-2018",
+            "sponsor": "Department  of  Agriculture,  Food  and  the  Marine’s  competitive  research  funding  programmes ",
+            "grants": "1,488,744.00 €"
         },
         {
             "nombre": "Técnico veterinario de varamientos de mamíferos marinos",
             "institucion": "University College Cork, Irlanda",
-            "Cargo": "Asistente Honorífico de Investigación",
-            "Fecha": "2010-2018",
-            "Funded": "Sin financiación"
+            "cargo": "Asistente Honorífico de Investigación",
+            "fecha": "2010-2018",
+            "sponsor": "Sin financiación"
         },
         {
             "nombre": "Ecosystem Approach to Fisheries Management – Marine Mammals and Foodweb Modelling",
             "Código": " BEAU/EAFM/06",
             "institucion": "University College Cork, Irlanda",
-            "Cargo": "Research fellow",
-            "Fecha": "2014-2015",
-            "Funded": "Beaufort Marine Research Award",
-            "Grants": "1,860,000.00 €"
+            "cargo": "Research fellow",
+            "fecha": "2014-2015",
+            "sponsor": "Beaufort Marine Research Award",
+            "grants": "1,860,000.00 €"
         },
         {
             "nombre": "Ecosystem Approach to Fisheries Management – Marine Mammals and Foodweb Modelling",
             "Código": " BEAU/EAFM/06",
             "institucion": "University College Cork, Irlanda",
-            "Cargo": "PhD student",
-            "Fecha": "2009-2014",
-            "Funded": "Beaufort Marine Research Award",
-            "Grants": "1,860,000.00 €"
+            "cargo": "PhD student",
+            "fecha": "2009-2014",
+            "sponsor": "Beaufort Marine Research Award",
+            "grants": "1,860,000.00 €"
         },
         {
             "nombre": "Técnico en estudios de dieta en mamíferos marinos",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Asistente Honorífico de Investigación",
-            "Funded": "Sin financiación"
+            "cargo": "Asistente Honorífico de Investigación",
+            "sponsor": "Sin financiación"
         },
         {
             "nombre": "Monk seal & fisheries: mitigating the conflict in Greek Seas’ (MOFI)",
             "Código": "LIFE05 NAT/GR/000083",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2008",
-            "Funded": "European Commission",
-            "Grants": "1,564,735.00 €"
+            "cargo": "Research assistant",
+            "fecha": "2008",
+            "sponsor": "European Commission",
+            "grants": "1,564,735.00 €"
         },
         {
             "nombre": "Aberdeen Proposed Offshore Wind Farm (2007 - 2008)",
             "institucion": "University of Hull, Inglaterra, Reino Unido",
-            "Cargo": "Observador científico",
-            "Fecha": "2008"
+            "cargo": "Observador científico",
+            "fecha": "2008"
         },
         {
             "nombre": "Integrating multiple demands on coastal zones with emphasis ecosystems and fisheries (INCOFISH)",
             "Código": "ID: 3739",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2008",
-            "Funded": "European Commission FP6-INCO",
-            "Grants": "5,387,180.00"
+            "cargo": "Research assistant",
+            "fecha": "2008",
+            "sponsor": "European Commission FP6-INCO",
+            "grants": "5,387,180.00"
         },
         {
             "nombre": "Environmental Approach to Essential Fish Habitat Designation (EnviEFH)",
             "Código": "FP6-2004-SSP-4, ID: 22466",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2008",
-            "Funded": "European Commission FP6-POLICIES",
-            "Grants": "937,508.00 €"
+            "cargo": "Research assistant",
+            "fecha": "2008",
+            "sponsor": "European Commission FP6-POLICIES",
+            "grants": "937,508.00 €"
         },
         {
             "nombre": "Desarrollo de un prototipo acústico para la reducción de la depredación ocasionada por mamíferos marinos en las pesquerías de pez espada (PINGERS)",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2007-2008",
-            "Funded": "Ministerio de Agricultura, Pesca y Alimentación, España",
-            "Grants": " "
+            "cargo": "Research assistant",
+            "fecha": "2007-2008",
+            "sponsor": "Ministerio de Agricultura, Pesca y Alimentación, España",
+            "grants": " "
         },
         {
             "nombre": "Biodiversity-ecosystem processes in heterogeneous environments’ (BAGPIPES)",
             "Código": "NER/A/S/2003/00579",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2005-2007",
-            "Funded": "NERC, Standard Grants Pre FEC",
-            "Grants": "126.924,00 ₤"
+            "cargo": "Research assistant",
+            "fecha": "2005-2007",
+            "sponsor": "NERC, Standard grants Pre FEC",
+            "grants": "126.924,00 ₤"
         },
         {
             "nombre": "EUROpean GELatinous zooplankton: mechanisms behind jellyfish blooms and their ecological and socio-economic effects (EUROGEL)",
             "Código": "EVK3-CT-2002-00074",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2005",
-            "Funded": "European Commission FP5-EESD",
-            "Grants": "3,355,031.00 €"
+            "cargo": "Research assistant",
+            "fecha": "2005",
+            "sponsor": "European Commission FP5-EESD",
+            "grants": "3,355,031.00 €"
         },
         {
             "nombre": "Aportación de un mayor valor añadido a una especie descartada en aguas de la Plataforma Patagónica (ROCKCOD)",
             "Código": "Q5CR-2002-71709",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Research assistant",
-            "Fecha": "2004",
-            "Funded": "European Commission-  Co-operative Research (CRAFT) ",
-            "Grants": "880,199.00"
+            "cargo": "Research assistant",
+            "fecha": "2004",
+            "sponsor": "European Commission-  Co-operative Research (CRAFT) ",
+            "grants": "880,199.00"
         },
         {
             "nombre": "Study of fish bones to augment studies based on otoliths in marine mammal diets (LEONARDO-EUROPRACTICUM)",
             "institucion": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Cargo": "Sudent researcher",
-            "Fecha": "2003-2004",
-            "Funded": "Leonardo-Practicum",
-            "Grants": "3,000.00 €"
+            "cargo": "Sudent researcher",
+            "fecha": "2003-2004",
+            "sponsor": "Leonardo-Practicum",
+            "grants": "3,000.00 €"
+        }
+    ],
+
+    "workshops": [
+        {
+            "authors": "Hernandez-Milian, G. y Lusher, A.",
+            "title": "From land to the sea: threats to marine mammals and ocean literacy for the general public living on the mainland",
+            "year": "2018",
+            "workshop": "6th Workshop Communicating Marine Mammal Science to the geeneral public. Plastic litter and marine mammals: how communication can properly address the issue",
+            "tipo": "Dentro de la 32ª European Cetacean Society Conference, 7de abril, La Spezia, Italia"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Lusher, A.",
+            "title": "Harmonized protocols for the analysis of marine litter in stranded organisms: a special focus on microplastics",
+            "year": "2017",
+            "workshop": "Marine litter: an emerging cause of concern for marine mammals",
+            "tipo": "Dentro de la 31ª European Cetacean Society Conference, 30 de abril, Middlefart, Dinamarca"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Role of the supervisor",
+            "year": "2016",
+            "workshop": "Taller dirigido a estudiantes de doctorado y master de la University College Cork, 14 de febrero, Cork, irlanda"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Can Ecopath models be used for MSFD impelentation? Irish Sea as an example",
+            "year": "2014",
+            "workshop": "Scientific Meeting, 13 de febrero, Galway, Irlanda",
+            "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Prey identification in piscivorous predator diets in Irish waters",
+            "year": "2014",
+            "workshop": "Taller dirigido a estudiantes de doctorado y master de la University College Cork, 27 de junio, Cork, irlanda"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Prey identification in monk seal diets in European waters",
+            "year": "2013",
+            "workshop": "Taller dirigido a investigadores de Archipelagos -environment and development, 26 de junio-3 de julio, Cork, Irlanda"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Prey identification in piscivorous predator diets in Irish waters",
+            "year": "2012",
+            "workshop": "Taller dirigido a estudiantes de doctorado y master de la University College Cork, 3 de agosto, Cork, irlanda"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "The foraging ecology of small cetaceans in the North East Atlantic",
+            "year": "2012",
+            "workshop": "Scientific Meeting, 5 de diciembre, Galway, Irlanda",
+            "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Irish Sea Model",
+            "year": "2011",
+            "workshop": "Scientific Meeting, 19-20 de enero, Galway, Irlanda",
+            "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
+        },
+        {
+            "authors": "Gosch, M., Hernandez-Milian, G., Rogan, E., Jessopp, M. y Cronin, M.",
+            "title": "What do grey seals (Halichoerus grypus) around Ireland eat and should ir worry fishermen?",
+            "year": "2011",
+            "workshop": "Scientific Meeting, 19-20 de enero, Galway, Irlanda",
+            "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
+        },
+        {
+            "authors": "Pierce, G.J., Santos, M.B., Hernandez-Milian, G.",
+            "title": "Marine mammal diet analysis. Current practice, future directions and onlune prey ID tools",
+            "year": "2011",
+            "workshop": "Prey identification in marine mammal diets Workshop, (org. Por Dr Graham J. Pierce y Ms. Gema Hernandez-Milian), 21 de marzo, Cádiz, España",
+            "tipo": "Dentro de la 25ª European Cetacean Society Conference, 21-23 de marzo, Cádiz, España"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Pierce, G.J., Santos, M.B.",
+            "title": "The importance of using different bones in diet studies",
+            "year": "2011",
+            "workshop": "Prey identification in marine mammal diets Workshop, (org. Por Dr Graham J. Pierce y Ms. Gema Hernandez-Milian), 21 de marzo, Cádiz, España",
+            "tipo": "Dentro de la 25ª European Cetacean Society Conference, 21-23 de marzo, Cádiz, España"
+        },
+        {
+            "authors": "Hernandez-Milian, G., McCarthy, A., O'Leary, E.M. y Rogan, E.",
+            "title": "Mesopelagic fish in the diet of marine mammals",
+            "year": "2011",
+            "workshop": "Prey identification in marine mammal diets Workshop, (org. Por Dr Graham J. Pierce y Ms. Gema Hernandez-Milian), 21 de marzo, Cádiz, España",
+            "tipo": "Dentro de la 25ª European Cetacean Society Conference, 21-23 de marzo, Cádiz, España"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
+            "title": "First insight on the diet of white-sided dolphin in Ireland waters",
+            "year": "2010",
+            "workshop": "White-beaked and Atlantic white-sided dolphins, 22 de marzo, Stralsund, Alemania",
+            "tipo": "Dentro de la 24ª European Cetacean Society Conference, 21 de marzo, Straldsund, Alemania"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Rogan, E. y Redi, D.",
+            "title": "Irish Sea Model",
+            "year": "2010",
+            "workshop": "Scientific Meeting, 9-10 de diciembre, Belfast, Irlanda del Norte, Reino Unido",
+            "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
         }
     ]
-
 }

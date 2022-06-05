@@ -3,7 +3,7 @@
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
-import Section from "./SectionAcademicas";
+import Section from "../../../common/Section";
 import "../../Layout/section.css";
 
 const { journals, reports, books } = data;
