@@ -15,16 +15,28 @@ export default function Section({
   conference,
   spanish,
 }) {
-  let regex = /Hernandez-Milian, G./i;
+
+/*   const regexEn = /Hernandez-Milian, G./i;
 
   if (spanish) {
-    regex = /Hernández Milián, G./i;
-  }
+  const regexSp = /Hernández Milián, G./i;
+  } */
 
-  const boldAuthor = authors.match(regex)[0];
-  const indexBoldAuthor = authors.search(regex);
+  //TODO: problema justo al acabar de parsear todo el array de conferences (Congresos): Uncaught TypeError: Cannot read properties of null (reading '0') 
+  //posibles causa: varios registros no logran ser hacer match? (todo indica que le cuesta pero al final si hace el match)
+  //posible causa: al acabar el array sigue intentando leer algo más y peta?
 
-  /*console.log("Name: ", boldAuthor); */
+
+
+  const matched = authors.match(/Hernandez-Milian, G./i) || authors.match(/Hernández Milián, G./i) || authors.match(/Hernández-Milián, G./i) || authors.match(/Hernández, G./i) || authors.match(/Hernandez, G./i);
+  console.log("matched", matched);
+
+  const boldAuthor = matched[0];
+  const indexBoldAuthor = authors.search(boldAuthor);
+
+
+  console.log('Authors', authors);
+  console.log("Name: ", boldAuthor);
 
   const boldAuthorElement = <strong>{boldAuthor}</strong>;
 
@@ -34,15 +46,15 @@ export default function Section({
   if (authors.includes(boldAuthor)) {
     if (authors.startsWith(boldAuthor)) {
       afterBoldAuthor = authors.slice(boldAuthor.length);
-      /* console.log('after', afterBoldAuthor) */
+      console.log('first her and after', afterBoldAuthor)
     } else if (authors.endsWith(boldAuthor)) {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      /* console.log('before', beforeBoldAuthor); */
+      console.log('before and then her', beforeBoldAuthor);
     } else {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      /* console.log('before', beforeBoldAuthor); */
       afterBoldAuthor = authors.slice(indexBoldAuthor + boldAuthor.length);
-      /* console.log('after', afterBoldAuthor) */
+      console.log('before in the middle', beforeBoldAuthor);
+      console.log('in the middle after', afterBoldAuthor)
     }
   }
 

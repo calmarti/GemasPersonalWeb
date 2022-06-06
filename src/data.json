@@ -126,7 +126,7 @@
             "href": "https://www.jstor.org/stable/24393600"
         },
         {
-            "authors": "Curran, E., hernandez-Milian, G., Rogan, E. y Whooley, P.",
+            "authors": "Curran, E., Hernandez-Milian, G., Rogan, E. y Whooley, P.",
             "title": "Common dolphins in River Lee at Cork City",
             "year": "2014",
             "publisher": "The Irish Naturalists' Journal, 33(2), 142",
@@ -141,7 +141,7 @@
             "doi": "10.1578/AM.37.3.2011.284"
         },
         {
-            "authors": "Hernandez-Milian, G y Rogan, E.",
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
             "title": "Unusual feeding of bottlenose dolphin (Tursiops truncatus Montagu, 1820) on dogfish (Scyliorhinus spp. L., 1758)",
             "year": "2011",
             "publisher": "The Irish Naturalists' Journal, 31(2), 136-137",
@@ -602,7 +602,7 @@
     ],
     "conferences": [
         {
-            "authors": "&#9;Pierce, G.J., Gutiérrez, P., Fariñas, A., Fernández, D., Petitguyot, M., Read, F.L., Hernández, A., Saavedra, C., Hernandez-Milian, G., Viñas Diéguez, L., Pérez Fernández, B., Jaquot, S., Méndez, P., López, A. y Cedeira, J.",
+            "authors": "Pierce, G.J., Gutiérrez, P., Fariñas, A., Fernández, D., Petitguyot, M., Read, F.L., Hernández, A., Saavedra, C., Hernandez-Milian, G., Viñas Diéguez, L., Pérez Fernández, B., Jaquot, S., Méndez, P., López, A. y Cedeira, J.",
             "title": "Impacts of organic pollutants on cetaceans in NW Spain",
             "year": "2021",
             "conference": "Pollution 2025: Intersessional Workshop, Scientific Committee IWC, 21 October 2021",
@@ -646,7 +646,7 @@
             "href": "https://digital.csic.es/handle/10261/264033"
         },
         {
-            "authors": "Fernández, D., Pierce, G.J. y Hernández Milián, G:",
+            "authors": "Fernández, D., Pierce, G.J. y Hernández Milián, G.",
             "title": "Bioacumulación de contaminantes en delfín común (Delphinus delphis ) en aguas de Irlanda, Francia y Galicia y sus efectos en individuos y poblaciones.",
             "year": "2021",
             "conference": "III Congreso de Jóvenes Investigadores del Mar, 6-9 septiembre, Granada, España",
@@ -662,7 +662,7 @@
             "tipo": "Panel"
         },
         {
-            "authors": "&#9;Fariñas, A., Gutiérrez, P., Gil, Á., Roumbedakis, K., Hernandez-Milian, G., Petitguyot, M., Álvarez, M., Saavedra, C., Hernández-González, A., Verutes, G., Rodríguez, R., Correia, A.M., Valeiras, J., Rotllant, J., Suárez-Bregua, P., García, M., Saborido-Rey, F., Rivera, M.L., Alonso, A. y Pierce, G.J.",
+            "authors": "Fariñas, A., Gutiérrez, P., Gil, Á., Roumbedakis, K., Hernandez-Milian, G., Petitguyot, M., Álvarez, M., Saavedra, C., Hernández-González, A., Verutes, G., Rodríguez, R., Correia, A.M., Valeiras, J., Rotllant, J., Suárez-Bregua, P., García, M., Saborido-Rey, F., Rivera, M.L., Alonso, A. y Pierce, G.J.",
             "title": "Our waves in the ocean: Projects for marine conservation and sustainable fisheries",
             "year": "2021",
             "conference": "Encontros IIM -II Fase, 26 de febrero",
@@ -678,7 +678,7 @@
             "tipo": "Panel-Online"
         },
         {
-            "authors": "Fernández, D., García , E., Pierce, G.J. y Hernández Milián, G",
+            "authors": "Fernández, D., García , E., Pierce, G.J. y Hernández Milián, G.",
             "title": "PCB concentration in common dolphin (Delphinus delphis) and their effects in reproduction in French waters",
             "year": "2021",
             "conference": "Encontros IIM -II Fase, 26 de febrero",
@@ -1126,6 +1126,7 @@
             "tipo": "Panel"
         }
     ],
+    
     "Divulgacion": [
         {
             "authors": "Hernández Milián, G.",

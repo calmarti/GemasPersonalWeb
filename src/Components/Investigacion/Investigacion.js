@@ -4,7 +4,7 @@ import data from "../../data.json";
 import Section from "../../common/Section";
 
 const { proyectos, workshops } = data;
-console.log(workshops);
+
 
 //TODO: resolver el problema de los puntos en registros donde no hay info (meter un condicional en el JSX) y agregar sección de Workshops
 

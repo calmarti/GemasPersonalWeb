@@ -1,4 +1,3 @@
-"use strict";
 
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";

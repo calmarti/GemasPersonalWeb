@@ -1,4 +1,3 @@
-"use strict";
 
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
@@ -7,6 +6,8 @@ import Section from "../../../common/Section";
 import "../../Layout/section.css";
 
 const { conferences } = data;
+
+console.log(conferences);
 
 export default function Congresos() {
   return (
