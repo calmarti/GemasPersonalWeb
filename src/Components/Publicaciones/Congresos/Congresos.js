@@ -24,7 +24,6 @@ export default function Congresos() {
               year={item.year}
               conference={item.conference}
               href={item.href}
-              /* doi={item.doi} */
               tipo={item.tipo}
               spanish={false}
             />

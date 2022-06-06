@@ -282,7 +282,7 @@
         }
     ],
     "books": [
-        
+
         {
             "authors": "Hernández Milián, G.",
             "title": "Arao dos cons (Uria aalge ibericus)",
@@ -692,7 +692,7 @@
             "conference": "International Conference on Environmental Science & Technology, CEST ID: 203, 1-4 de septiembre, Atenas, Grecia",
             "href": "https://www.researchgate.net/publication/360159388_Using_monk_seal_faeces_as_a_non-invasive_technique_to_monitor_the_incidence_of_microdebris",
             "tipo": "Comunicación oral-Online",
-            "undefined": "https://cest.gnest.org/e/cest-2021?room_id=7&date=2021-09-03%2000%3A00%3A00"
+            "moreinfo": "https://cest.gnest.org/e/cest-2021?room_id=7&date=2021-09-03%2000%3A00%3A00"
         },
         {
             "authors": "Hernandez-Milian, G.",
@@ -707,9 +707,9 @@
             "title": "More threats for the Mediterranean monk seal: presence of microplastics in ther diet",
             "year": "2020",
             "conference": "MICRO 2020. Fate and Impact of Microplastics: Knowledge, Actions and Solutions , 23-27 de noviembre",
-            "href": "https://www.youtube.com/watch?v=f5C9e0lM5hw&list=PLgr7RjmlSwrh1hB4Q1IBsSh0Veq_LFGYS&index=1",
+            "href": "https://www.researchgate.net/publication/360159614_More_threats_for_the_Mediterranean_monk_seal_presence_of_microplastics_in_their_faeces",
             "tipo": "Comunicación oral-Online",
-            "undefined": "https://www.researchgate.net/publication/360159614_More_threats_for_the_Mediterranean_monk_seal_presence_of_microplastics_in_their_faeces"
+            "moreinfo": "https://www.youtube.com/watch?v=f5C9e0lM5hw&list=PLgr7RjmlSwrh1hB4Q1IBsSh0Veq_LFGYS&index=1"
         },
         {
             "authors": "Hernandez-Milian, G., Saavedra Fajardo, C. y Pierce, G.J.",

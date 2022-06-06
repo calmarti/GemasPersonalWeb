@@ -12,6 +12,8 @@ function App() {
     <Routes>
       <Route path="/investigacion" element={<Investigacion />} />
       <Route path="/publicaciones/academicas" element={<Academicas />} />
+      <Route path="/publicaciones/congresos" element={<Congresos />} />
+      <Route path="/publicaciones/divulgacion" element={<Divulgacion />} />
       <Route path="/docencia" element={<Docencia />} />      
       <Route path="/asesorias-y-colaboraciones" element={<Asesorias />} />
       <Route exact path="/" element={<Home />} />
