@@ -12,6 +12,7 @@ export default function Section({
   institution,
   workshop,
   tipo,
+  conference,
   spanish,
 }) {
   let regex = /Hernandez-Milian, G./i;
@@ -144,7 +145,28 @@ export default function Section({
           </p>
         </div>
       );
-
+    case "conferences":
+      return (
+        <div className="publication-container">
+          <p className="publication-item">
+            <span className="authors">
+              {beforeBoldAuthor}
+              {boldAuthorElement}
+              {afterBoldAuthor}.
+            </span>
+            &nbsp;
+            <span className="title">
+              <em>{title}.</em>
+            </span>
+            &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
+            <span className="workshop">{conference}.</span>
+            &nbsp;
+            <span className="tipo">{tipo}</span>
+          </p>
+        </div>
+      );
     default:
       return "Section with no items yet";
   }

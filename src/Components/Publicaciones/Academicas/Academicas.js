@@ -10,9 +10,6 @@ const { journals, reports, books } = data;
 
 const other = journals;
 
-// TODO: fecha justo después del nombre de los autores y entre paréntesis
-// TODO: DOI o link, poner "DOI:" y ponerlo a continuación del nombre de la publicación
-
 export default function Academicas() {
   return (
     <>

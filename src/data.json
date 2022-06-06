@@ -282,6 +282,7 @@
         }
     ],
     "books": [
+        
         {
             "authors": "Hernández Milián, G.",
             "title": "Arao dos cons (Uria aalge ibericus)",
@@ -496,7 +497,6 @@
             "grants": "3,000.00 €"
         }
     ],
-
     "workshops": [
         {
             "authors": "Hernandez-Milian, G. y Lusher, A.",
@@ -598,6 +598,733 @@
             "year": "2010",
             "workshop": "Scientific Meeting, 9-10 de diciembre, Belfast, Irlanda del Norte, Reino Unido",
             "tipo": "Dentro del proyecto Beaufort - Ecosystem Approach to Fisheries Management"
+        }
+    ],
+    "conferences": [
+        {
+            "authors": "&#9;Pierce, G.J., Gutiérrez, P., Fariñas, A., Fernández, D., Petitguyot, M., Read, F.L., Hernández, A., Saavedra, C., Hernandez-Milian, G., Viñas Diéguez, L., Pérez Fernández, B., Jaquot, S., Méndez, P., López, A. y Cedeira, J.",
+            "title": "Impacts of organic pollutants on cetaceans in NW Spain",
+            "year": "2021",
+            "conference": "Pollution 2025: Intersessional Workshop, Scientific Committee IWC, 21 October 2021",
+            "href": "https://digital.csic.es/handle/10261/264108",
+            "tipo": "Panel-Online"
+        },
+        {
+            "authors": "Pierce, G. J., Gutiérrez, P., Petitguyot, M., Fariñas, A., Read, F.L., Hernandez-Milian, G., Hernández-González, A., Méndez, P., López, A., Cedeira, J., Covelo, P., Jacquot, S., Fernández, D., García Martínez, E. y Saavedra, C.",
+            "title": "Understanding the impacts of contaminant and pathogen flow through marine food webs",
+            "year": "2021",
+            "conference": "ICES Annual Science Conference, 6-10 de septiembre",
+            "href": "https://digital.csic.es/handle/10261/264070",
+            "tipo": "Comunicación oral-Onlline"
+        },
+        {
+            "authors": "Alfaya Seguín, A., Hernandez-Milian, G. y Pierce, G.J.",
+            "title": "Determinación de la dieta de Lagenorhynchus albirostris (Gray, 1846) y Lagenorhynchus acutus (Gray, 1828) en aguas escocesa",
+            "year": "2021",
+            "conference": "XII Congreso de la Sociedad Española de Cetáceos (SEC), 4 al 7 de octubre",
+            "href": "https://digital.csic.es/handle/10261/264185"
+        },
+        {
+            "authors": "Fernández Fernández, D., Pierce, G.J. y Hernandez-Milian, G.",
+            "title": "Bioacumulación de contaminantes en delfín común (Delphinus delphis) en aguas de Irlanda, Francia y Galicia y sus efectos en individuos y poblaciones",
+            "year": "2021",
+            "conference": "XII Congreso de la Sociedad Española de Cetáceos (SEC), 4 al 7 de octubre",
+            "href": "https://digital.csic.es/handle/10261/264181"
+        },
+        {
+            "authors": "García Martínez, E., Pierce, G.J. y Hernandez-Milian, G.",
+            "title": "Relación entre la dieta y la carga parasitaria en delfín común (Delphinus delphis) en aguas de Galicia",
+            "year": "2021",
+            "conference": "XII Congreso de la Sociedad Española de Cetáceos (SEC), 4 al 7 de octubre",
+            "href": "https://digital.csic.es/handle/10261/264183"
+        },
+        {
+            "authors": "Alfaya Seguín, A., Hernandez-Milian, G. y Pierce, G.J.",
+            "title": "Estudio de la ecología trófica de Lagenorhynchus albirostris: nueva información en aguas escocesas",
+            "year": "2021",
+            "conference": "III Congreso de Jóvenes Investigadores del Mar, 6-9 septiembre, Granada, España",
+            "href": "https://digital.csic.es/handle/10261/264033"
+        },
+        {
+            "authors": "Fernández, D., Pierce, G.J. y Hernández Milián, G:",
+            "title": "Bioacumulación de contaminantes en delfín común (Delphinus delphis ) en aguas de Irlanda, Francia y Galicia y sus efectos en individuos y poblaciones.",
+            "year": "2021",
+            "conference": "III Congreso de Jóvenes Investigadores del Mar, 6-9 septiembre, Granada, España",
+            "href": "https://www.researchgate.net/publication/360160327_Bioacumulacion_de_contaminantes_en_delfin_comun_Delphinus_delphis_en_aguas_de_Irlanda_Francia_y_Galicia_y_sus_efectos_en_individuos_y_poblaciones",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "García, E., Pierce, G.J. y Hernández Milián, G.",
+            "title": "Relación entre la dieta y la carga parasitaria en el delfín común (Delphinus delphis) en Galicia",
+            "year": "2021",
+            "conference": "III Congreso de Jóvenes Investigadores del Mar, 6-9 septiembre, Granada, España",
+            "href": "https://www.researchgate.net/publication/360 160317_Relacion_entre_la_dieta_y_la_carga_parasitaria_en_el_delfin_comun_Delphinus_delphis_en_Galicia",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "&#9;Fariñas, A., Gutiérrez, P., Gil, Á., Roumbedakis, K., Hernandez-Milian, G., Petitguyot, M., Álvarez, M., Saavedra, C., Hernández-González, A., Verutes, G., Rodríguez, R., Correia, A.M., Valeiras, J., Rotllant, J., Suárez-Bregua, P., García, M., Saborido-Rey, F., Rivera, M.L., Alonso, A. y Pierce, G.J.",
+            "title": "Our waves in the ocean: Projects for marine conservation and sustainable fisheries",
+            "year": "2021",
+            "conference": "Encontros IIM -II Fase, 26 de febrero",
+            "href": "https://digital.csic.es/handle/10261/260178",
+            "tipo": "Panel-Online"
+        },
+        {
+            "authors": "García, E., Fernández, D., Pierce, G.J. y Hernández Milián, G.",
+            "title": "Common dolphin's diet in Galician waters: preliminary study",
+            "year": "2021",
+            "conference": "Encontros IIM -II Fase, 26 de febrero",
+            "href": "https://www.researchgate.net/publication/360160156_Common_dolphins_diet_in_Galician_waters_preliminary_study",
+            "tipo": "Panel-Online"
+        },
+        {
+            "authors": "Fernández, D., García , E., Pierce, G.J. y Hernández Milián, G",
+            "title": "PCB concentration in common dolphin (Delphinus delphis) and their effects in reproduction in French waters",
+            "year": "2021",
+            "conference": "Encontros IIM -II Fase, 26 de febrero",
+            "href": "https://www.researchgate.net/publication/360159813_PCB_concentration_in_common_dolphin_Delphinus_delphis_and_their_effects_in_reproduction_in_French_waters",
+            "tipo": "Panel-Online"
+        },
+        {
+            "authors": "Tsangaris, C., Hernandez-Milian, G., Bundone, L. , Panou, A. y Anestis, A.",
+            "title": "Using monk seal faeces as a non-invasive technique to monitor the incidence of microdebris",
+            "year": "2021",
+            "conference": "International Conference on Environmental Science & Technology, CEST ID: 203, 1-4 de septiembre, Atenas, Grecia",
+            "href": "https://www.researchgate.net/publication/360159388_Using_monk_seal_faeces_as_a_non-invasive_technique_to_monitor_the_incidence_of_microdebris",
+            "tipo": "Comunicación oral-Online",
+            "undefined": "https://cest.gnest.org/e/cest-2021?room_id=7&date=2021-09-03%2000%3A00%3A00"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "Dealing with marine environmental sustainability the MSFD in Europe",
+            "year": "2021",
+            "conference": "AFS Talk 24, 21 de junio",
+            "href": "https://www.researchgate.net/publication/360159952_AFS_Talk_24_Dealing_with_marine_environmental_sustainability_the_MSFD_in_Europe",
+            "tipo": "Conferencia por invitación"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Tsangaris, C., Anestis, A. y Panou, A.",
+            "title": "More threats for the Mediterranean monk seal: presence of microplastics in ther diet",
+            "year": "2020",
+            "conference": "MICRO 2020. Fate and Impact of Microplastics: Knowledge, Actions and Solutions , 23-27 de noviembre",
+            "href": "https://www.youtube.com/watch?v=f5C9e0lM5hw&list=PLgr7RjmlSwrh1hB4Q1IBsSh0Veq_LFGYS&index=1",
+            "tipo": "Comunicación oral-Online",
+            "undefined": "https://www.researchgate.net/publication/360159614_More_threats_for_the_Mediterranean_monk_seal_presence_of_microplastics_in_their_faeces"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Saavedra Fajardo, C. y Pierce, G.J.",
+            "title": "MISTIC SEAS III - Developing a coordinated approach for assessing Descriptor 4 via its linkages with D1 and other relevant descriptors in the Macaronesian sub-region",
+            "year": "2019",
+            "conference": "Encontros IIM - I Fase, 12 de diciembre, Vigo, España",
+            "href": "https://www.researchgate.net/publication/360157440_MISTIC_SEAS_III_-_Developing_a_coordinated_approach_for_assessing_Descriptor_4_via_its_linkages_with_D1_and_other_relevant_descriptors_in_the_Macaronesian_sub-region",
+            "tipo": "Panel "
+        },
+        {
+            "authors": "Casado, P., Lazaro, I., Saavedra, C., Hernández, G. y Pierce, G.J.",
+            "title": "Feeding ecology of stranded cetaceans in the NE Atlantic and incidence of microplastics",
+            "year": "2019",
+            "conference": "Encontros IIM - I Fase, 12 de diciembre, Voigo, España",
+            "href": "https://www.researchgate.net/publication/360157343_Feeding_ecology_of_stranded_cetaceans_in_the_NE_Atlantic_and_incidence_of_microplastics",
+            "tipo": "Panel "
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A.L., Bundone, L., Antolovic, J. Coppola, E., Zalac, S y Molinaroli, E.",
+            "title": "Another top predator in the list&#10;microplastics in Mediterranean Monk Seals",
+            "year": "2018",
+            "conference": "MICRO 2018. Fate and Impact of Microplastics: Knowledge, Actions and Solutions, 19-22 de noviembre, Lanzarote, España",
+            "href": "https://www.researchgate.net/publication/329070640_Another_top_predator_in_the_list_microplastics_in_Mediterranean_Monk_Seals ",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Muñoz Cañas, M., Haya, M., M'Bareck, A., M'Bareck, H., Fernandez de Larrinoa, P., Gonzalez, L.M. y Pierce, G.J.",
+            "title": "The \"monastic\" menu of the Mediterranean monk seal at Cabo Blanco Peninsula",
+            "year": "2018",
+            "conference": "32ª European Cetacean Society Conference, 8-10 de abril, La Spezia, Italia",
+            "href": "https://www.researchgate.net/publication/324417725_The_monastic_menu_of_the_Mediterranean_monk_seal_at_Cabo_Blanco_Peninsula",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Lusher, A.L., Hernandez-Milian, G., Berrow, S., Rogan, E. y O'Connor, I.",
+            "title": "Macro and microdebris in marine mammals from Ireland: promoting standardization of protocolos and research on top predators",
+            "year": "2018",
+            "conference": "6ª International Marine Debris Conference, 12-16 de marzo, San Diego, California, Estados Unidos",
+            "href": "https://www.researchgate.net/publication/360157422_Macro_and_microdebris_in_marine_mammals_from_Ireland_promoting_standardization_of_protocolos_and_research_on_top_predators",
+            "tipo": "Panel trasnferido a Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A., Rogan, E., O'Connor, I. y Berrow, S.",
+            "title": "Marine debris in marine mammals in Ireland: another issue in marine conservation",
+            "year": "2017",
+            "conference": "31ª European Cetacean Society Conference, 1-3 de mayo, Middlefart, Dinamarca",
+            "href": "https://www.researchgate.net/publication/360156910_Marine_debris_in_marine_mammals_in_Ireland_another_issue_in_marine_conservation_Microplastics_and_marine_mammals",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Lusher, A., MacGabhann, S., Gosch, M., O'Connor, I., Cronin, M., y Rogan, E.",
+            "title": "First report of microplastics in bycaught pinnipeds",
+            "year": "2016",
+            "conference": "MICRO 2016. Fate and Impact of Microplastics: Knowledge, Actions and Solutions, 25-27 de mayo, Lanzarote, España",
+            "href": "https://www.researchgate.net/publication/360157197_First_report_of_microplastics_in_pinnipeds",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Lusher, A., Hernandez-Milian, G., Berrow, S., Rogan, E. y O'Connor, I.",
+            "title": "Micro- and Macro-plastics associated with marine mammals stranded in Ireland: recent findings and review of historical knowledge",
+            "year": "2016",
+            "conference": "MICRO 2016. Fate and Impact of Microplastics: Knowledge, Actions and Solutions, 25-27 de mayo, Lanzarote, España",
+            "href": "https://www.researchgate.net/publication/360157199_Micro-and_macro-plastics_associated_with_marine_mammals_stranded_in_Ireland_Recent_findings_and_a_review_of_historical_knowledge",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Brophy, J. y Rogan, E.",
+            "title": "Deep sea predators in Irish watres and their trophic relevance",
+            "year": "2016",
+            "conference": "30ª European Cetacean Society Conference, 14-16 de marzo, Funchal, Madeira, Portugal",
+            "href": "https://www.researchgate.net/publication/360156980_Deep_sea_predators_in_Irish_waters_and_their_trophic_relevance",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Pierce, G.J., Santos, M.B., Bangma, O., Brownlow, A., Lopez, A., Rogan, E., Hernandez-Milian, G., Read, F.L., Fernandez, R., Saavedra, C. y Leopold, M.",
+            "title": "Ecological insights from long-term trends in cetacean stomach contents",
+            "year": "2016",
+            "conference": "30ª European Cetacean Society Conference, 14-16 de marzo, Funchal, Madeira, Portugal",
+            "href": "https://www.researchgate.net/publication/360157083_Ecological_insights_from_long-term_trends_in_cetacean_stomach_contents",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Keaveney, E., Hernandez-Milian, G. y Rogan, E. ",
+            "title": "Weather or not? An investigation into the effect of variations in oceanographic and meteorological conditions on cetacean strandings along the Irish coast",
+            "year": "2016",
+            "conference": "30ª European Cetacean Society Conference, 14-16 de marzo, Funchal, Madeira, Portugal",
+            "href": "https://www.researchgate.net/publication/360156981_Weather_or_Not_The_effect_of_variations_in_environmental_conditions_on_cetacean_stranding_trends_along_the_Irish_coast",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Reid, D. y Rogan, E.",
+            "title": "The importance of marine mammals in eco-trophic models: ECOPATH",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/283577819_The_importance_of_marine_mammals_in_eco-trophic_models_ECOPATH",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Lusher, A., Hernandez-Milian, G., MacGabhbann, S., Gosch, M., O'Connor, I., Berrow, S., Officer, R., Cronin, M. y Rogan, E.",
+            "title": "First report of microplastics in pinnipeds",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157074_First_report_of_microplastics_in_pinnipeds_Microplastics_and_marine_mammals",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "MacGabhann, S., Gosch, M., Hernandez-Milian, G. y Rogan, E.",
+            "title": "pH and patterns of distribution and aggregation of the intestinal Acanthocephalan, Corynosoma strumosum in grey seals (Halichoerus grypus): more than  a gut feeling?",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157173_pH_and_Patterns_of_Distribution_and_Aggregation_of_the_intestinal_Acanthocephalan_Corynosoma_strumosum_in_grey_seals_Halichoerus_grypus_more_than_a_gut_feeling",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Quinn, N., Rogan, E. y Hernandez-Milian, G.",
+            "title": "The morphometrics of the harbour porpoise (Phocoena phocoena) in Irish waters",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157169_The_Morphometrics_of_the_Harbour_porpoise_Phocoena_phocoena_in_Irish_waters",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Keaveney, E., Hernandez-Milian, G. y Rogan, E. ",
+            "title": "Weather or not? An investigation into the effect of variations in oceanographic and meteorological conditions on cetacean strandings along the Irish coast",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157167_Weather_or_not_An_investigation_into_the_effect_of_variations_in_oceanographic_and_meteorological_conditions_on_cetacean_strandings_along_the_Irish_coast",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Rogan, E., Kavanagh, A., McHugh, B., Englund, A., Hernandez-Milian, G. y Ingram, S.",
+            "title": "Using stable isotope analysis to infer differences in prey and habitat selection in coastal bottlenose dolphins at a range of spatial scales",
+            "year": "2015",
+            "conference": "3º All Ireland Mammal Symposium, 7-8 de noviembre, Cork, Irlanda",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La importancia de datos locales de mamíferos marinos en modelos ecotróficos",
+            "year": "2015",
+            "conference": "VII Congreso de la Sociedad Española de Cetáceos, 2-4 de octubre, Vigo, España",
+            "href": "https://www.researchgate.net/publication/360156962_La_importancia_de_datos_locales_de_mamiferos_marinos_en_modelos_ecotroficos",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G.",
+            "title": "La importancia de los superdepredadores en los sistema de ecología trtófica marina: dieta, vectores parasitarios, contaminación y modelos ecotróficos",
+            "year": "2015",
+            "conference": "Congreso en La Universidade de A Coruña, octubre ",
+            "href": "https://www.researchgate.net/publication/360156959_La_importancia_de_los_superdepredadores_en_los_sistema_de_ecologia_trtofica_marina_dieta_vectores_parasitarios_contaminacion_y_modelos_ecotroficos",
+            "tipo": "Conferencia por invitación"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Reid, D. y Rogan, E.",
+            "title": "Foraging strategies of an offshore predator: the striped olphin (Stenella coeureoalba)",
+            "year": "2015",
+            "conference": "29ª European Cetacean Society Conference, 23-25 de marzo, St Julian's, Malta",
+            "href": "https://www.researchgate.net/publication/274373865_Foraging_strategies_of_an_offshore_predator_the_striped_dolphin_Stenella_coerueoalba",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Bundone, L., Hernandez-Milian, G., Antolovic, J., Coppola, E., Zalac, S. y Molinaroli, E.",
+            "title": "Insights on the foraging ecology of the Mediterranean monk seal",
+            "year": "2015",
+            "conference": "29ª European Cetacean Society Conference, 23-25 de marzo, St Julian's, Malta",
+            "href": "https://www.researchgate.net/publication/360157217_Insights_on_the_foraging_ecology_of_the_Mediterranean_monk_seal",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Morell, M., Lenoir, M., Shadwick, R.E., Piscitelli, M., Ostertag, S., Stephen, R., Jauniaux, T., Dabin, W., Begeman, L., Ferreria, M., Maestre, I., Degollada, E., Hernandez-Milian, G., Brownlow, A., Cazevieille C., Fortuño, J.-M., Vogl, W., Puel, J.-L. y André, M.",
+            "title": "Cochlear untrastructure high frequency hearing adaptations in toothed whales",
+            "year": "2015",
+            "conference": "38ª Annual Mid Winter Meeting of the Association for Research in Otolaryngology, 21-25 de febrero, Baltimore, Maryland, Estados Unidos",
+            "href": "https://www.researchgate.net/publication/360156870_Cochlear_untrastructure_high_frequency_hearing_adaptations_in_toothed_whales",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Rogan, E. y Reid, D.",
+            "title": "The importance of locally specific data in Ecopath models",
+            "year": "2014",
+            "conference": "Ecopath 30 years. Modelling dynamic ecosystems: beyond boundaries with EwE, 10-12 de noviembre, Barcelona, España",
+            "href": "https://www.researchgate.net/publication/273575556_The_importance_of_locally_specific_data_in_Ecopath_models",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Gosch, M., Kavanagh, A., Doyle, A., Jessopp, M., Cronin, M., Reid, D. y Rogan, E.",
+            "title": "Food consumption by coastal marine mammals in Irish waters",
+            "year": "2013",
+            "conference": "27ª European Cetacean Society Conference, 8-10 de abril, Setubal, Portugal",
+            "href": "https://www.researchgate.net/publication/360156807_Food_consumption_by_coastal_marine_mammals_in_Irish_waters",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Luck, C., Gosch, M., Hernandez-Milian, G., Rogan, E., Jessopp, M. y Cronin, M.",
+            "title": "Improving the estimates of dragonet (Callionymus lyra) importance in marine mammal diets using preopercula and other diagnostic bones",
+            "year": "2013",
+            "conference": "27ª European Cetacean Society Conference, 8-10 de abril, Setubal, Portugal",
+            "href": "https://www.researchgate.net/publication/360157041_Improving_the_estimates_of_dragonet_Callionymus_lyra_importance_in_marine_mammal_diets_using_preopercula_and_other_diagnostic_bones",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Gosch, M., Kavanagh, A., Doyle, A., Jessopp, M., Cronin, M., Reid, D. y Rogan, E.",
+            "title": "Coastal Marine Mammals: what are they eating in Irish coasts?",
+            "year": "2012",
+            "conference": "2º All Ireland mammal Symposium, 26-27 de octubre, Waterford, Irlanda",
+            "href": "https://www.researchgate.net/publication/257764114_Coastal_Marine_Mammals_what_are_they_eating_in_Irish_coasts",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Gosch, M., Kavanagh, A., Doyle, A., Jessopp, M., Cronin, M., Reid, D. y Rogan, E.",
+            "title": "Seals, bottlenose dolphins and harbour porpoises: what \"menu\" do these coastal marine mammals have in common?",
+            "year": "2012",
+            "conference": "9ª Marine Biological Association Postgraduate Conference, 21-24 de mayo, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/273575658_Seals_bottlenose_dolphins_and_harbour_porpoises_what_menu_do_these_coastal_marine_mammals_have_in_common",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Muñoz Cañas, M., Hernandez-Milian, G., Mas, J., Fernández de Larrinoa, P y Pierce, G.J.",
+            "title": "Diet of the Mediterranean monk seal (Monachus monachus) in Mauritanian waters",
+            "year": "2012",
+            "conference": "9ª Marine Biological Association Postgraduate Conference, 21-24 de mayo, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/273575669_Diet_of_the_Mediterranean_monk_seal_Monachus_monachus_in_Mauritanian_waters",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Gosch, M., Hernandez-Milian, G., Rogan, E., Jessopp, M y Cronin, M.",
+            "title": "Evidence of salmonids in the diet of grey seals (Halichoerus grypus) in southwest Ireland",
+            "year": "2012",
+            "conference": "9ª Marine Biological Association Postgraduate Conference, 21-24 de mayo, Cork, Irlanda",
+            "href": "https://www.researchgate.net/publication/360156946_Evidence_of_salmonids_in_the_diet_of_grey_seals_Halichoerus_grypus_in_southwest_Ireland",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
+            "title": "Is it the bottlenose dolphin? Traumatic lesions in two cetacean species stranded within a 37km strech of coastline (Cork, South of Ireland)",
+            "year": "2012",
+            "conference": "26ª European Cetacean Society Conference, 26-28 de marzo, Galway, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157038_Evidence_of_salmonids_in_the_diet_of_grey_seals_Halichoerus_grypus_in_southwest_Ireland",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Gosch, M., Hernandez-Milian, G., Rogan, E., Jessopp, M y Cronin, M.",
+            "title": "Evidence of salmonids in the diet of grey seals (Halichoerus grypus) in southwest Ireland",
+            "year": "2012",
+            "conference": "26ª European Cetacean Society Conference, 26-28 de marzo, Galway, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157038_Evidence_of_salmonids_in_the_diet_of_grey_seals_Halichoerus_grypus_in_southwest_Ireland",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Doyle, A., Hernandez Milian, G., Cronin, M., Jessopp, M. y Rogan, E.",
+            "title": "Detecting salmon in the diet of grey seals Halichoerus grypus (Fabricus, 1791) off the south- cost of Ireland",
+            "year": "2012",
+            "conference": "26ª European Cetacean Society Conference, 26-28 de marzo, Galway, Irlanda",
+            "href": "https://www.researchgate.net/publication/360156851_Detecting_Salmon_in_the_diet_of_grey_seals_Halichoerus_grypus_Fabricus_1791_off_the_south-west_coast_of_Ireland",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
+            "title": "Beaked whales in Irish waters: what can long-term stranding records tell us?",
+            "year": "2011",
+            "conference": "19 Biennial Society for Marine Mammology Conference, 14-19 de diciembre, Tampa, Florida, Estados Unidos",
+            "href": "https://www.researchgate.net/publication/273575728_Beaked_whales_in_Irish_waters_what_can_long-term_stranding_records_tell_us",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Rogan, E., Kavanagh, A., McHugh, B., Englund, A., Hernandez-Milian, G. y Ingram, S.",
+            "title": "Using ecological tracers to help differentiate populations: the case of bottlenose dolphins in Ireland",
+            "year": "2011",
+            "conference": "19 Biennial Society for Marine Mammology Conference, 14-19 de diciembre, Tampa, Florida, Estados Unidos",
+            "href": "https://www.researchgate.net/publication/273575591_Using_ecological_tracers_to_help_differentiate_populations_the_case_of_bottlenose_dolphins_in_Ireland",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Santos, M.B. y Rogan, E.",
+            "title": "Harbour porpoise and bottlenose dolphin in Ireland: diet and interaction with fisheries",
+            "year": "2011",
+            "conference": "ICES Annual Science Conference, 17-23 de septiembre, Gdansk, Polonia",
+            "href": "https://www.researchgate.net/publication/273575698_Harbour_porpoise_and_bottlenose_dolphin_in_Ireland_diet_and_interaction_with_fisheries",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Reid, D. y Rogan, E.",
+            "title": "Modelling the ecosystem role of top predators (cetaceans and seals) in the Irish Sea",
+            "year": "2011",
+            "conference": "25ª European Cetacean Society Conference, 21-23 de marzo, Cádiz, España",
+            "href": "https://www.researchgate.net/publication/360156844_Modeling_the_ecosystem_role_of_top_predators_cetaceans_and_seals_in_the_Irish_Sea",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "McCarthy, A., O'Leary, E., Hernandez-Milian, G. y Rogan, E.",
+            "title": "Growth data and otolith atlas for mesopelagic fish of the norheast Atlantic",
+            "year": "2011",
+            "conference": "25ª European Cetacean Society Conference, 21-23 de marzo, Cádiz, España",
+            "href": "https://www.researchgate.net/publication/273575586_Growth_data_and_otolith_atlas_for_mesopelagic_fish_of_the_northeast_Atlantic",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Rogan, E. y Reid, D.",
+            "title": "Modelling the ecosystem role of top predators (cetaceans and seals) in Irish waters",
+            "year": "2010",
+            "conference": "The Fisheries Resource, Linking Advice, Research and the Fishing Industry Conference, 23-24 de junio, Galway, Irlanda",
+            "href": "https://www.researchgate.net/publication/360157021_Modelling_the_ecosystem_role_of_top_predators_Cetaceans_and_seals_in_Irish_waters",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
+            "title": "Atlantic white-sided and bottlenose dolphins: the unknown foraging ecology in the waters around Ireland",
+            "year": "2010",
+            "conference": "24ª European Cetacean Society Conference, 22-24 de marzo, Straldsund, Alemania",
+            "href": "https://www.researchgate.net/publication/273575603_Atlantic_white-sided_and_Bottlenose_dolphins_the_unknown_foraging_ecology_in_the_waters_around_Ireland",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G. y Rogan, E.",
+            "title": "Preliminary insights into the diet and foraging behaviour of bottlenose dolphins (Tursiops truncatus) in Ireland",
+            "year": "2009",
+            "conference": "1er All Ireland mammal Symposium, 6-8 de noviembre, Waterford, Irlanda",
+            "href": "https://www.researchgate.net/publication/273575928_Preliminary_insights_into_the_diet_and_foraging_behaviour_of_Bottlenose_dolphins_Tursiops_truncatus_in_Ireland",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Pierce, G.J., Hernandez, G., Santos, M.B., Edridge, A., Dendrinos, I., Psaradelli, M., Tounta, E. y Androukaki, E.",
+            "title": "Octopus in the diet of Mediterraenan monk seal (Monachus monachus)",
+            "year": "2009",
+            "conference": "Cephalopod International Advisory Council (CIAC) Symposium'09, 3-11 de septiembre, Vigo, España",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Guerra, A., Pierce, G.J., Santos, M.B., González, A.F., Hernández, G., Porteiro, C. y Patiño, B.",
+            "title": "An unusually large specimen of neon flying squid, Ommastrephes bartramii (Cephalopoda: Ommastrephidae) caught in the Eastern Tropical Pacific",
+            "year": "2009",
+            "conference": "Cephalopod International Advisory Council (CIAC) Symposium'09, 3-11 de septiembre, Vigo, España",
+            "href": "https://www.researchgate.net/publication/257763548_An_unusually_large_specimen_of_neon_flying_squid_Ommastrephes_bartramii_Cephalopoda_Ommastrephidae_caught_in_the_Eastern_Tropical_Pacific",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Edridge, A., Pierce, G.J., Santos, M.B., Dendrinos, P., Psaradelli, M., Tounta, E. y Androukaki, E.",
+            "title": "Diet of the Mediterranean monk seal (Monachus monachus)",
+            "year": "2009",
+            "conference": "Marine EcoSystems and Sustainability (ECOSUMMER) Conference, dicembre, Aberdeen, Escocia, Reino Unido",
+            "href": "https://www.researchgate.net/publication/360156672_Diet_of_Mediterranean_monk_seals_Monachus_monachus",
+            "tipo": "Conferencia por invitación"
+        },
+        {
+            "authors": "Pierce, G.J., Hernandez, G., Santos, M.B., Edridge, A., Dendrinos, I., Psaradelli, M., Tounta, E. y Androukaki, E.",
+            "title": "Diet of the Mediterranean monk seal (Monachus monachus) ",
+            "year": "2009",
+            "conference": "23ª European Cetacean Society Conference, 2-4 de marzo, Estambul, Turquía",
+            "href": "https://www.researchgate.net/publication/360156594_Diet_of_Mediterranean_monk_seals_Monachus_monachus",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernandez-Milian, G., Varela-Dopico, C., Rodriguez-Gutierrez, J., Fuertes-Gamundi, J.R., Treguenza, N.J.C., Smerdon, A., Ulloa, E., Romón, J., Goetz, S., Wang, J., Santos, M.B. y Pierce, G.J.",
+            "title": "Interactions of cetaceans and longline fisheries in Atlantic waters",
+            "year": "2008",
+            "conference": "22ª European Cetacean Society Conference, 9-12 de marzo, Egmond aan Zee, Holanda",
+            "href": "https://www.researchgate.net/publication/273575707_Interactions_of_cetaceans_and_longline_fisheries_in_Atlantic_waters",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernández-Milián, G., Martínez-Cedeira, J.A., Santos, M.B., López, A., Pierce, G.J., Scott, B.E. y Mato, S.",
+            "title": "Trends in cetacean strandings on the Galician coast (NW Spain) (2000-2004)",
+            "year": "2007",
+            "conference": "21ª European Cetacean Society Conference, 22-25 de abril, San Sebastian, España",
+            "href": "https://www.researchgate.net/publication/273575711_Trends_in_cetacean_strandings_on_the_Galician_coast_NW_Spain_2000-2004",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernández-Milián, G., Laria, L., Cermeño, P., Ridoux, V., Van Canneyt, O., Rivilla, J.C., Castillo, J.J., Pitta, M.J., Carrillo, M., Arvelo, M., García-Castrillo, G. y López, A.",
+            "title": "Strandings of Marine Mammals in South Western Europe",
+            "year": "2006",
+            "conference": "20ª European Cetacean Society Conference, 3-6 de abril, Gdynia, Polonia",
+            "href": "https://www.researchgate.net/publication/273575750_Strandings_of_Marine_Mammals_in_South_Western_Europe",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Fernández, R., Santos, M.B., Pierce, G.J., Hernández-Milián, G y Ieno, E.",
+            "title": "Variability in diet of bottlenose dolphin, Tursiops truncatus, in Galician waters, 1990-2005",
+            "year": "2006",
+            "conference": "20ª European Cetacean Society Conference, 3-6 de abril, Gdynia, Polonia",
+            "href": "https://www.researchgate.net/publication/360156736_Variability_in_diet_of_bottlenose_dolphin_Tursiops_truncatus_in_Galician_waters_1990-2005",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Hernández-Milián, G., Fernández-García, R., Santos, M.B., Pierce, G.J., Ieno, E.N. y MacLeod, C.D.",
+            "title": "Utilización del dentario parala mejora de la precisión en la identificación de presas en los estudios de ecología trófica de mamíferos marinos",
+            "year": "2005",
+            "conference": "7ª Conferencia de la Sociedad Española para la Conservación de los Mamíferos (SECEM), 3-6 de diciembre , Valencia, España",
+            "href": "https://www.researchgate.net/publication/360156395_Utilizacion_del_dentario_para_la_mejora_de_la_precision_en_la_identificacion_de_presas_en_los_estudios_de_ecologia_trofica_de_mamiferos_marinos",
+            "tipo": "Comunicación oral"
+        },
+        {
+            "authors": "Hernández-Milián, G., Santos, M.B., Pierce, G.J., Fernández-García, R., MacLeod, C.D. y Brier, K.L.",
+            "title": "Improvement in traditional methods of studying marine mammal diet. Use of fish jaws to augment studies based on otoliths",
+            "year": "2005",
+            "conference": "ICES Annual Science Conference, 20-24 de septiembre, Aberdeen, Escocia, Reino Unido",
+            "href": "https://www.researchgate.net/publication/273575760_Improvement_in_traditional_methods_of_studying_marine_mammal_diet_use_of_fish_jaw_bones_to_augment_studies_based_on_otoliths",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Luque, P.L., Hernández, G., Bulling, M., Dyson, K., Ieno, E.N., Pierce, G.J., Solan, M., Raffaelli, D., Paterson, D. y White, P",
+            "title": "Biodiversity-ecosystem processes in heterogeneous environments",
+            "year": "2005",
+            "conference": "ICES Annual Science Conference, 20-24 de septiembre, Aberdeen, Escocia, Reino Unido",
+            "href": "https://www.researchgate.net/publication/273575829_Biodiversity-ecosystem_processes_in_heterogeneous_environments",
+            "tipo": "Panel"
+        },
+        {
+            "authors": "Carril, R., Cedeira, J.M., Caldas, M., López, A., Llavona, A. y Hernández, G.",
+            "title": "Study and monitoritation of the cetacean populations in the Galician waters (NW Spain)",
+            "year": "2003",
+            "conference": "17ª European Cetacean Society Conference, 10-12 de marzo, Gran Canaria, España",
+            "href": "https://www.researchgate.net/publication/257763993_Study_and_monitoritation_of_the_cetaceans_populations_in_the_Galician_waters_NW_Spain",
+            "tipo": "Panel"
+        }
+    ],
+    "Divulgacion": [
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La ciencia también es cosa de mujeres… y niñas y adolescentes",
+            "year": "2021",
+            "curso": "5º-6º de primaria",
+            "lugar": "CEP Dr. Fleming, 12 de abril, Vigo, España",
+            "tipo": "Iniciativa del Día de la mujer y la niña en la ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Los plásticos: &#10;un problema en nuestros ecosistemas debido a nuestras acciones",
+            "year": "2020",
+            "curso": "5º de primaria",
+            "lugar": "Colegio Arcangel Rafael, 2 de noviembre, Madrid, España",
+            "tipo": "Iniciativa de la Semana de la Ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Ecología trófica marina, impacto de plásticos y presencia de parásitos en delfines",
+            "year": "2020",
+            "lugar": "Taller #mulleresdoIIM, 13 de febrero, Vigo, España",
+            "tipo": "Iniciativa del Día de la mujer y la niña en la ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La ciencia también es cosa de mujeres… y niñas y adolescentes",
+            "year": "2020",
+            "curso": "5º-6º de primaria",
+            "lugar": "CEPR San Miguel 2, 21 de febrero, Vigo, España",
+            "tipo": "Iniciativa del Día de la mujer y la niña en la ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La ciencia también es cosa de mujeres… y niñas y adolescentes",
+            "year": "2020",
+            "curso": "2º-6º de primaria",
+            "lugar": "CPR Alba, 19 de febrero, Vigo, España",
+            "tipo": "Iniciativa del Día de la mujer y la niña en la ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La ciencia también es cosa de mujeres… y niñas y adolescentes",
+            "year": "2019",
+            "curso": "3º ESO",
+            "lugar": "Colegio Lourdes FUHEM, 11 de febrero, Madrid, España",
+            "tipo": "Iniciativa del Día de la mujer y la niña en la ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "El medio ambiente en el que vivimos",
+            "year": "2018",
+            "lugar": "Fundación ALAPAR (centro de discapacitados intelectuales), 3 de julio, Madrid, España",
+            "tipo": "Dentro de la formación SSCE0110"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La Salud de los Océanos y la Sociedad",
+            "year": "2018",
+            "curso": "3º-4º de primaria",
+            "lugar": "Colegio Lourdes FUHEM, 24 de marzo y 22 de mayo, Madrid, España"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Comunicación en delfines",
+            "year": "2018",
+            "lugar": "CDM Formación, 16 de mayo",
+            "tipo": "Dentro de la formación SSCE0110"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Weasly y el patio de plásticos",
+            "year": "2018",
+            "curso": "Infantil",
+            "lugar": "CEIP Asunción de Nuestra Señora, 14 de mayo, Madrid, España"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La Salud de los Océanos y la Sociedad",
+            "year": "2018",
+            "curso": "1º ESO",
+            "lugar": "Colegio Arcangel Rafael, 16 de abril, Madrid, España"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Dieta de los Homo neanderthalensis",
+            "year": "2017",
+            "lugar": "Taller La evolución humana a través de sus fósiles (dir. D. Andrés Armendáriz Sanz), 13-18 de noviembre, Madrid, España",
+            "tipo": "Inicativa de la Semana de la Ciencia"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "La Salud de los Océanos y la Sociedad",
+            "year": "2017",
+            "curso": "1º de Bachillerato",
+            "lugar": "Colegio Gamo Diana, 6 de noviembre, Madrid, España"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "Animales marinos: desde invertebrados a grandes vertebrados",
+            "year": "2008",
+            "curso": "Infantil",
+            "lugar": "Colegio Lourdes FUHEM, noviembre, Madrid, España"
+        },
+        {
+            "authors": "Hernández Milián, G.",
+            "title": "El hundimiento del Prestige y su problemática",
+            "year": "2003",
+            "curso": "1º de Bachillerato",
+            "lugar": "Colegio Gamo Diana, febrero, Madrid, España"
+        }
+    ],
+
+    "Docencia": [
+        {
+            "asignaturas": "Ecología trófica y los depredadores. Ambientes marinos",
+            "titulacion": "MSc de Biodiversidad",
+            "institution": "Universidad Autónoma de Madrid, España",
+            "Fecha": "2018"
+        },
+        {
+            "asignaturas": "Science writing",
+            "titulacion": "MSc de Biodiversidad",
+            "institution": "Universidad Autónoma de Madrid, España",
+            "Fecha": "2018"
+        },
+        {
+            "asignaturas": "Marine megafauna: top predator dietary studies",
+            "Código": "BL6012",
+            "titulacion": "MSc Marine Biology",
+            "institution": "University College Cork",
+            "Fecha": "2014, 2015, 2017"
+        },
+        {
+            "asignaturas": "Biology of marine mammals. Foraging ecology of cetaceans and pinnipeds",
+            "Código": "ZY4016",
+            "titulacion": "4º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2015"
+        },
+        {
+            "asignaturas": "Marine fisheries & aquaculture. Fish practical",
+            "Código": "BL6013",
+            "titulacion": "MSc Marine Biology",
+            "institution": "University College Cork",
+            "Fecha": "2010-2015"
+        },
+        {
+            "asignaturas": "Cells, biomolecules & evolution. Microccopes, cells and tissues. Introduction to genetics",
+            "Código": "BL1002",
+            "titulacion": "1º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2014"
+        },
+        {
+            "asignaturas": "Physiology of plants and animals. Plant physiology. Fish dissection",
+            "Código": "BL1004",
+            "titulacion": "1º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2014"
+        },
+        {
+            "asignaturas": "Freshwater invertebrates. Field ecology",
+            "Código": "BL1005/EV1002",
+            "titulacion": "1º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2014"
+        },
+        {
+            "asignaturas": "Vertebrate diversity",
+            "Código": "ZY2000",
+            "titulacion": "2º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2014"
+        },
+        {
+            "asignaturas": "Advance vertebrate biology. Fish dissection. Rat dissection",
+            "Código": "ZY3015",
+            "titulacion": "3º Grado de Zoología",
+            "institution": "University College Cork",
+            "Fecha": "2010-2014"
+        },
+        {
+            "asignaturas": "Oceanografía biológica",
+            "titulacion": "2º Grado de Zoología",
+            "institution": "Universidad de Aberdeen, Escocia, Reino Unido",
+            "Fecha": "2006"
+        },
+        {
+            "asignaturas": "Interactionsof top predators in marine ecosystems",
+            "titulacion": "MSc Biología dos Organismos e Ecosistemas",
+            "institution": "Universidaded de Vigo, España",
+            "Fecha": "2008"
+        },
+        {
+            "asignaturas": "Ocean biology",
+            "titulacion": "2º Grado de Zoología",
+            "institution": "Universidad de Aberdeen, Escocia, Reino Unido",
+            "Fecha": "2005"
         }
     ]
 }
