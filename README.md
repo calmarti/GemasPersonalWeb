@@ -1,6 +1,6 @@
 # Gema Hernández Milián, Ph.D
 ## Bióloga Marina 
-## Website personal
+## Web personal
 ---
  
 ### Deployment
