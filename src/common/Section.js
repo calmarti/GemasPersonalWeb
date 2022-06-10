@@ -23,12 +23,12 @@ export default function Section({
   } */
 
   //TODO: problema justo al acabar de parsear todo el array de conferences (Congresos): Uncaught TypeError: Cannot read properties of null (reading '0') 
-  //posibles causa: varios registros no logran ser hacer match? (todo indica que le cuesta pero al final si hace el match)
+  //posibles causa: varios registros no logran hacer match? (todo indica que le cuesta pero al final si hace el match)
   //posible causa: al acabar el array sigue intentando leer algo más y peta?
 
 
 
-  const matched = authors.match(/Hernandez-Milian, G./i) || authors.match(/Hernández Milián, G./i) || authors.match(/Hernández-Milián, G./i) || authors.match(/Hernández, G./i) || authors.match(/Hernandez, G./i);
+  const matched = authors.match(/Hernandez-Milian, G./i) || authors.match(/Hernández Milián, G./i) || authors.match(/Hernández-Milián, G./i)  || authors.match(/Hernandez Milian, G./) || authors.match(/Hernández, G./i) || authors.match(/Hernandez, G./i);
   console.log("matched", matched);
 
   const boldAuthor = matched[0];
