@@ -1,4 +1,3 @@
-
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
@@ -28,7 +27,7 @@ export default function Academicas() {
               publisher={item.publisher}
               href={item.href}
               doi={item.doi}
-              spanish={false}
+              // spanish={false}
             />
           ))}
         </section>
@@ -49,7 +48,7 @@ export default function Academicas() {
               project={item.Project}
               sponsor={item.sponsor}
               pages={item.Pages}
-              spanish={false}
+              // spanish={false}
             />
           ))}
         </section>
@@ -65,12 +64,11 @@ export default function Academicas() {
               year={item.year}
               publisher={item.publisher}
               institution={item.institution}
-              spanish={true}
+              // spanish={true}
             />
           ))}
         </section>
-
-        </main>
+      </main>
       <Footer />
     </>
   );

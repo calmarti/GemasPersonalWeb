@@ -13,29 +13,29 @@ export default function Section({
   workshop,
   tipo,
   conference,
-  spanish,
+  curso,
+  lugar,
+  // spanish,
 }) {
-
-/*   const regexEn = /Hernandez-Milian, G./i;
+  /*   const regexEn = /Hernandez-Milian, G./i;
 
   if (spanish) {
   const regexSp = /Hernández Milián, G./i;
   } */
 
-  //TODO: problema justo al acabar de parsear todo el array de conferences (Congresos): Uncaught TypeError: Cannot read properties of null (reading '0') 
-  //posibles causa: varios registros no logran hacer match? (todo indica que le cuesta pero al final si hace el match)
-  //posible causa: al acabar el array sigue intentando leer algo más y peta?
-
-
-
-  const matched = authors.match(/Hernandez-Milian, G./i) || authors.match(/Hernández Milián, G./i) || authors.match(/Hernández-Milián, G./i)  || authors.match(/Hernandez Milian, G./) || authors.match(/Hernández, G./i) || authors.match(/Hernandez, G./i);
+  const matched =
+    authors.match(/Hernandez-Milian, G./i) ||
+    authors.match(/Hernández Milián, G./i) ||
+    authors.match(/Hernández-Milián, G./i) ||
+    authors.match(/Hernandez Milian, G./) ||
+    authors.match(/Hernández, G./i) ||
+    authors.match(/Hernandez, G./i);
   console.log("matched", matched);
 
   const boldAuthor = matched[0];
   const indexBoldAuthor = authors.search(boldAuthor);
 
-
-  console.log('Authors', authors);
+  console.log("Authors", authors);
   console.log("Name: ", boldAuthor);
 
   const boldAuthorElement = <strong>{boldAuthor}</strong>;
@@ -46,15 +46,15 @@ export default function Section({
   if (authors.includes(boldAuthor)) {
     if (authors.startsWith(boldAuthor)) {
       afterBoldAuthor = authors.slice(boldAuthor.length);
-      console.log('first her and after', afterBoldAuthor)
+      console.log("first her and after", afterBoldAuthor);
     } else if (authors.endsWith(boldAuthor)) {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      console.log('before and then her', beforeBoldAuthor);
+      console.log("before and then her", beforeBoldAuthor);
     } else {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
       afterBoldAuthor = authors.slice(indexBoldAuthor + boldAuthor.length);
-      console.log('before in the middle', beforeBoldAuthor);
-      console.log('in the middle after', afterBoldAuthor)
+      console.log("before in the middle", beforeBoldAuthor);
+      console.log("in the middle after", afterBoldAuthor);
     }
   }
 
@@ -174,6 +174,30 @@ export default function Section({
             <span className="year">{year}.</span>
             &nbsp;
             <span className="workshop">{conference}.</span>
+            &nbsp;
+            <span className="tipo">{tipo}</span>
+          </p>
+        </div>
+      );
+    case "divulgacion":
+      return (
+        <div className="publication-container">
+          <p className="publication-item">
+            <span className="authors">
+              {beforeBoldAuthor}
+              {boldAuthorElement}
+              {afterBoldAuthor}.
+            </span>
+            &nbsp;
+            <span className="title">
+              <em>{title}.</em>
+            </span>
+            &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
+            <span className="curso">{curso}.</span>
+            &nbsp;
+            <span className="lugar">{lugar}.</span>
             &nbsp;
             <span className="tipo">{tipo}</span>
           </p>

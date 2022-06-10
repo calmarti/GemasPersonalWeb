@@ -7,8 +7,6 @@ import "../../Layout/section.css";
 
 const { conferences } = data;
 
-console.log(conferences);
-
 export default function Congresos() {
   return (
     <>
@@ -26,7 +24,7 @@ export default function Congresos() {
               conference={item.conference}
               href={item.href}
               tipo={item.tipo}
-              spanish={false}
+              // spanish={false}
             />
           ))}
         </section>
