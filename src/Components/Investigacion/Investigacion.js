@@ -1,7 +1,7 @@
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
 import data from "../../data.json";
-import Section from "../../common/Section";
+import Item from "../../common/Item";
 
 const { proyectos, workshops } = data;
 
@@ -40,7 +40,7 @@ export default function Investigacion() {
         <section className="section">
           <h2 className="section-heading">Workshops</h2>
           {workshops.map((item, index) => (
-            <Section
+            <Item
               type="workshops"
               key={index}
               authors={item.authors}

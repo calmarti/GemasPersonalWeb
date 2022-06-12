@@ -2,7 +2,7 @@
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
-import Section from "../../../common/Section";
+import Item from "../../../common/Item";
 import "../../Layout/section.css";
 
 const { conferences } = data;
@@ -15,7 +15,7 @@ export default function Congresos() {
         <section className="section">
           <h2 className="section-heading">Congresos</h2>
           {conferences.map((item, index) => (
-            <Section
+            <Item
               type="conferences"
               key={index}
               authors={item.authors}

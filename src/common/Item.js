@@ -1,4 +1,4 @@
-export default function Section({
+export default function Item({
   type,
   authors,
   title,

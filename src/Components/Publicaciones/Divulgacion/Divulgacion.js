@@ -1,7 +1,7 @@
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
-import Section from "../../../common/Section";
+import Item from "../../../common/Item";
 import "../../Layout/section.css";
 
 const { divulgacion } = data;
@@ -18,7 +18,7 @@ export default function Divulgacion() {
         <section className="section">
           <h2 className="section-heading">Divulgación</h2>
           {divulgacion.map((item, index) => (
-            <Section
+            <Item
               type="divulgacion"
               key={index}
               authors={item.authors}

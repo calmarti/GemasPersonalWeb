@@ -1,7 +1,7 @@
 import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
-import Section from "../../../common/Section";
+import Item from "../../../common/Item";
 import "../../Layout/section.css";
 
 const { journals, reports, books } = data;
@@ -18,7 +18,7 @@ export default function Academicas() {
             Publicaciones en revistas arbitradas
           </h2>
           {journals.map((item, index) => (
-            <Section
+            <Item
               type="journals"
               key={index}
               authors={item.authors}
@@ -37,7 +37,7 @@ export default function Academicas() {
             Informes y publicaciones no arbitradas
           </h2>
           {reports.map((item, index) => (
-            <Section
+            <Item
               type="reports"
               key={index}
               authors={item.authors}
@@ -56,7 +56,7 @@ export default function Academicas() {
         <section className="section">
           <h2 className="section-heading">Libros, boletines y monografías</h2>
           {books.map((item, index) => (
-            <Section
+            <Item
               type="books"
               key={index}
               authors={item.authors}

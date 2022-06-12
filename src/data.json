@@ -1240,92 +1240,92 @@
         }
     ],
 
-    "Docencia": [
+    "docencia": [
         {
             "asignaturas": "Ecología trófica y los depredadores. Ambientes marinos",
             "titulacion": "MSc de Biodiversidad",
             "institution": "Universidad Autónoma de Madrid, España",
-            "Fecha": "2018"
+            "fecha": "2018"
         },
         {
             "asignaturas": "Science writing",
             "titulacion": "MSc de Biodiversidad",
             "institution": "Universidad Autónoma de Madrid, España",
-            "Fecha": "2018"
+            "fecha": "2018"
         },
         {
             "asignaturas": "Marine megafauna: top predator dietary studies",
             "Código": "BL6012",
             "titulacion": "MSc Marine Biology",
             "institution": "University College Cork",
-            "Fecha": "2014, 2015, 2017"
+            "fecha": "2014, 2015, 2017"
         },
         {
             "asignaturas": "Biology of marine mammals. Foraging ecology of cetaceans and pinnipeds",
             "Código": "ZY4016",
             "titulacion": "4º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2015"
+            "fecha": "2010-2015"
         },
         {
             "asignaturas": "Marine fisheries & aquaculture. Fish practical",
             "Código": "BL6013",
             "titulacion": "MSc Marine Biology",
             "institution": "University College Cork",
-            "Fecha": "2010-2015"
+            "fecha": "2010-2015"
         },
         {
             "asignaturas": "Cells, biomolecules & evolution. Microccopes, cells and tissues. Introduction to genetics",
             "Código": "BL1002",
             "titulacion": "1º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2014"
+            "fecha": "2010-2014"
         },
         {
             "asignaturas": "Physiology of plants and animals. Plant physiology. Fish dissection",
             "Código": "BL1004",
             "titulacion": "1º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2014"
+            "fecha": "2010-2014"
         },
         {
             "asignaturas": "Freshwater invertebrates. Field ecology",
             "Código": "BL1005/EV1002",
             "titulacion": "1º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2014"
+            "fecha": "2010-2014"
         },
         {
             "asignaturas": "Vertebrate diversity",
             "Código": "ZY2000",
             "titulacion": "2º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2014"
+            "fecha": "2010-2014"
         },
         {
             "asignaturas": "Advance vertebrate biology. Fish dissection. Rat dissection",
             "Código": "ZY3015",
             "titulacion": "3º Grado de Zoología",
             "institution": "University College Cork",
-            "Fecha": "2010-2014"
+            "fecha": "2010-2014"
         },
         {
             "asignaturas": "Oceanografía biológica",
             "titulacion": "2º Grado de Zoología",
             "institution": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Fecha": "2006"
+            "fecha": "2006"
         },
         {
             "asignaturas": "Interactionsof top predators in marine ecosystems",
             "titulacion": "MSc Biología dos Organismos e Ecosistemas",
             "institution": "Universidaded de Vigo, España",
-            "Fecha": "2008"
+            "fecha": "2008"
         },
         {
             "asignaturas": "Ocean biology",
             "titulacion": "2º Grado de Zoología",
             "institution": "Universidad de Aberdeen, Escocia, Reino Unido",
-            "Fecha": "2005"
+            "fecha": "2005"
         }
     ]
 }
