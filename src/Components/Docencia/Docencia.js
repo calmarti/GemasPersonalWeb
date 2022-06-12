@@ -1,8 +1,8 @@
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
-import "../Layout/section.css";
 import Item from "../../common/Item";
 import data from "../../data.json";
+import "../Layout/section.css";
 
 const { docencia } = data;
 
@@ -31,6 +31,7 @@ export default function Docencia() {
               </p>
             </div>
           ))}
+          
         </section>
       </main>
       <Footer />

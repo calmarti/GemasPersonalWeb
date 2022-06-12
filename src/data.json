@@ -282,7 +282,6 @@
         }
     ],
     "books": [
-
         {
             "authors": "Hernández Milián, G.",
             "title": "Arao dos cons (Uria aalge ibericus)",
@@ -1126,7 +1125,6 @@
             "tipo": "Panel"
         }
     ],
-    
     "divulgacion": [
         {
             "authors": "Hernández Milián, G.",
@@ -1239,7 +1237,6 @@
             "lugar": "Colegio Gamo Diana, febrero, Madrid, España"
         }
     ],
-
     "docencia": [
         {
             "asignaturas": "Ecología trófica y los depredadores. Ambientes marinos",
@@ -1326,6 +1323,283 @@
             "titulacion": "2º Grado de Zoología",
             "institution": "Universidad de Aberdeen, Escocia, Reino Unido",
             "fecha": "2005"
+        }
+    ],
+    "asesorias": [
+        {
+            "nombre": "Trophic ecology of monk seals in the Adriatic, Ionian and Tyrrhenian Seas",
+            "institucion": "Archipelagos -environment & development",
+            "cargo": "Scientific advisor and active member",
+            "fecha": "2015-actual"
+        },
+        {
+            "nombre": "Microplastic trophic transfer in monk seaks in the Adriatic, Ionian and Thyrrenian Seas",
+            "institucion": "Archipelagos -environment & development",
+            "cargo": "Scientific advisor and active member",
+            "fecha": "2015-actual"
+        },
+        {
+            "nombre": "Schools and raising awareness of the plastic impact in our society-Citizen Science",
+            "institucion": "Archipelagos -environment & development",
+            "cargo": "Scientific advisor and active member",
+            "fecha": "2015-actual"
+        },
+        {
+            "nombre": "Euromarine Modelling Risk to Fish Communities",
+            "institucion": "CEFAS",
+            "cargo": "Scientific advisor",
+            "fecha": "2020-actual"
+        },
+        {
+            "nombre": "Pilot study to investigate the health status of otters (Lutra lutra) in Schleswig-Holstein",
+            "Código": "V 5011-063.09-1853/201",
+            "institucion": "Institute for Terrestrial and Aquatic Wildlife Research, University of Veterinary Medicine Hannover, Alemania",
+            "cargo": "Scientific advisor",
+            "fecha": "2020-actual"
+        },
+        {
+            "nombre": "Microplastics y su transferencia trófica en redes tróficas marinas. ",
+            "institucion": "Norwegian Institute for Water Research (NIVA), Oslo, Noruega",
+            "cargo": "Scientific advisor",
+            "fecha": "13-17 de mayo de 2019"
+        },
+        {
+            "nombre": "Workshop on methods for assessing microplastic exposure pathways for whale species",
+            "institucion": "Environmental and Climate Change Canada (ECCC) del Gobierno de Canada, Vancuver, Canada",
+            "cargo": "Scientific advisor",
+            "fecha": "28-29 marzo de 2019"
+        },
+        {
+            "nombre": "Workshop on stakeholder input to, and parameterization of, ecosystem and foodweb models in the Irish Sea aimed at a holistic approach to the management of the main fish stocks (WKIrish4)",
+            "institucion": "WKIrish-ICES, Dublin, Irlanda",
+            "cargo": "Scientific advisor",
+            "fecha": "6-10 de noviembre de 2017"
+        },
+        {
+            "nombre": "3er All Ireland Mammal Symposium (AIMS)",
+            "institucion": "University College Cork, Irlanda",
+            "cargo": "Asistente de coordinación",
+            "fecha": "noviembre de 2015"
+        },
+        {
+            "nombre": "9a Marine Biological Association Postgraduate Conference",
+            "institucion": "University College Cork, Irlanda",
+            "cargo": "Miembro del comité organizador de la conferencia",
+            "fecha": "mayo de 2012"
+        },
+        {
+            "nombre": "UK & Ireland Regional Student Chapter de la Sociedad de Mamíferos Marinos (SMM)",
+            "cargo": "Representante de estudiantes",
+            "fecha": "2012-2013"
+        },
+        {
+            "nombre": "Prey identification in marine mammal diets Workshop",
+            "institucion": "European Cetacean Society ",
+            "cargo": "Cordinadora del workshop",
+            "fecha": "marzo de 2011"
+        },
+        {
+            "nombre": "Microplásticos y su influencia en la salud’",
+            "institucion": "Muy Interesante, mayo de 2021, 60-65p",
+            "cargo": "Asesoría",
+            "fecha": "2021"
+        },
+        {
+            "nombre": "Cómo la sangre azul del cangrejo herradura nos está ayudando a detectar bacterias fuera de la Tierra",
+            "institucion": "Xataka, 1 de noviembre de 2019 ",
+            "cargo": "Asesoría",
+            "fecha": "2019",
+            "href": "https://www.xataka.com/investigacion/como-sangre-azul-cangrejo-herradura-nos-esta-ayudando-a-detectar-bacterias-fuera-tierra"
+        },
+        {
+            "nombre": "No, los corales no prefieren los microplásticos a su alimento habitual",
+            "institucion": "Maldita Ciencia. 8 de julio de 2019 ",
+            "cargo": "Asesoría",
+            "fecha": "2019",
+            "href": "https://maldita.es/malditaciencia/2019/07/08/no-los-corales-no-prefieren-los-microplasticos-a-su-alimento-habitual/"
+        },
+        {
+            "nombre": "Varamientos de Mamíferos Marinos del Atlántico Nordeste (ATLANCETUS)",
+            "institucion": "Coordinadora para o Estudio dos Mamíferos Mariños (CEMMA)",
+            "cargo": "Coordinadora",
+            "fecha": "2005-2008"
+        }
+    ],
+    "supervision": [
+
+        {
+            "student": "Alfaya, Seguín, Ana",
+            "title": "Determinación de la dieta de Lagenorhynchus albirostris (GRAY, 1846) y Lagenorhynchus acutus (GRAY, 1828) en aguas escocesas",
+            "year": "2021",
+            "institution": "MSc thesis/TFM, Universidade de Vigo, España"
+        },
+        {
+            "student": "Castillo, Díaz, Jorge",
+            "title": "Variación espacio-temporal en la dieta de marsopa (Phocoena phocoena) de Holanda y Dinamarca",
+            "year": "2021",
+            "institution": "MSc thesis/TFM, Universidade de Vigo, España"
+        },
+        {
+            "student": "García Martínez, Elena",
+            "title": "Relación entre la dieta y lacarga parasitaria del delfín común (Delphinus delphis) en aguas de Galicia",
+            "year": "2021",
+            "institution": "BSc thesis/TFG, Universidad Complutense de Madrid, España"
+        },
+        {
+            "student": "Fernández Fernández, Diego",
+            "title": "Bioacumulación de contaminantes en delfín común (Delphinus delphis) en aguas de Irlanda, Francia y Galicia y sus efectos en individuos y poblaciones",
+            "year": "2021",
+            "institution": "BSc thesis/TFG, Universidad Complutense de Madrid, España"
+        },
+        {
+            "student": "Kessler, lucie",
+            "title": "Stomach contents of common dolphins (Delphinus delphis) and striped dolphins (Stenella coeruleoalba) in Scottish waters between 1992 and 2011",
+            "year": "2021",
+            "institution": "MSc thesis/TFM, La Rochelle Université, Francia"
+        },
+        {
+            "student": "Bernard, Lorraine",
+            "title": "The occurrence of microplastics in grey seal scats off the southwest of Ireland",
+            "year": "2018",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Davitt, Vicki",
+            "title": "Macrodebris and microplastics from beaches in the west of Ireland",
+            "year": "2016",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "O'Mahoney, Rachel",
+            "title": "Same place, same time, same diet? The diet of fish species in Cork",
+            "year": "2016",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Dolan, Connor",
+            "title": "Digestion rates of bones of brown trout (Salmo trutta)",
+            "year": "2016",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "MacGabhan, Sean",
+            "title": "Top predator project: cetaceans",
+            "year": "2015",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "MacGabhan, Sean",
+            "title": "pH and patterns of distribution and aggregation of the intestinal Acanthocephalan, Corynosoma strumosum in grey seals (Halichoerus grypus): more than  a gut feeling?",
+            "year": "2015",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Keaveney, Emer",
+            "title": "Spatio-temporal analysis of 25 years of cetacean strandings along the Irish coasts",
+            "year": "2015",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Quinn, Meadhbh",
+            "title": "The morphometrics of the harbour porpoise (Phocoena phocoena) in Irish waters",
+            "year": "2015",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Roche, Ciara",
+            "title": "Otolith morphometrics and aging of dab (Limanda limanda) and poor cod (Trisopterus minutus) in Cork harbour, Ireland",
+            "year": "2015",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Molland, Nathalie",
+            "title": "Prevalence of the nematode worm Anisakis simplex s.s. in the stomachs of common bottlenose dolphins (Tursiops truncatus) in Irish waters",
+            "year": "2013",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Luck, Cian",
+            "title": "A comparative study of the feeding ecology of harbour seal (Phoca vitulina) and grey seal (Halichoerus grypus) in Ireland",
+            "year": "2013",
+            "institution": "MRes thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Neira del Río, Patricia",
+            "title": "Morphometric study on dragonet bones for diagnosis in seal diet",
+            "year": "2013",
+            "institution": "Proyecto Erasmus, University College Cork, Irlanda"
+        },
+        {
+            "student": "Ni Chorraoin, Caoilfhionn",
+            "title": "Top predator project: cetaceans",
+            "year": "2013",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "Davey, Mark",
+            "title": "The diet of the common dolphin (Delphinus delphis) from the south and south-west coast of Ireland",
+            "year": "2012",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Torres Harwood, Laura",
+            "title": "Anisakis simplex in the harbour porpoise (Phocoena phocoena)",
+            "year": "2012",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Kempf, Jed",
+            "title": "Top predator project: cetaceans",
+            "year": "2012",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "Doyle, Alice",
+            "title": "Detecting salmon in the diet of grey seals Halichoerus grypus (Fabricus, 1791) off the south-west coast of Ireland",
+            "year": "2011",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Luck, Cian",
+            "title": "Diet and feeding ecology of benthic and demersal fish in Cork harbour",
+            "year": "2011",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Lane, heather F.",
+            "title": "Top predator project: seals",
+            "year": "2011",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "Curran, Eimear B.",
+            "title": "Top predator project: cetaceans",
+            "year": "2011",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "Gosch, Martha",
+            "title": "Diet studies of the grey seal (Halichoerus grypus) off the south-west of Ireland",
+            "year": "2010",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
+        },
+        {
+            "student": "Murphy, Fionnuala",
+            "title": "Dietary study of the Atlantic grey seal (Halichoerus grypus) through the analysis of scat samples",
+            "year": "2010",
+            "institution": "BSc thesis/TFG, University College Cork, Irlanda"
+        },
+        {
+            "student": "Creagh, Richard",
+            "title": "Top predator project: cetaceans",
+            "year": "2010",
+            "institution": "Asistente en el proyecto EAFM Beaufort, University College Cork, Irlanda"
+        },
+        {
+            "student": "O'Leary, Eavan, M.",
+            "title": "Growth data and otolith atlas for mesopelagic fishes of the Northeast Atlantic sampled aboard the Blue Whiting Survey 2009",
+            "year": "2009",
+            "institution": "MSc thesis/TFM, University College Cork, Irlanda"
         }
     ]
 }
