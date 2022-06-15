@@ -186,7 +186,7 @@ export default function Item({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}.
+              {afterBoldAuthor}
             </span>
             &nbsp;
             <span className="title">

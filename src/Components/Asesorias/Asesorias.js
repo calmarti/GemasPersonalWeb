@@ -3,7 +3,10 @@ import Footer from "../Layout/Footer";
 import data from "../../data.json";
 import "../Layout/section.css";
 
-const { asesorias, supervision } = data;
+//TODO: cambiar "Docencia" a "Docencia y Supervisiones"
+//TODO: sacar supervisiones de Asesorías y Colaboraciones y dejar el resto como está
+
+const { asesorias } = data;
 
 export default function Asesorias() {
   return (
@@ -11,7 +14,7 @@ export default function Asesorias() {
       <Navbar />
       <main className="main">
         <section className="section">
-          <h2 className="section-heading">Asesorias</h2>
+          <h2 className="section-heading">Asesorias y colaboraciones</h2>
 
           {asesorias.map((item, index) => (
             <div key={index} className="publication-container">
@@ -29,10 +32,6 @@ export default function Asesorias() {
             </div>
           ))}
         </section>
-
-
-
-        
       </main>
       <Footer />
     </div>

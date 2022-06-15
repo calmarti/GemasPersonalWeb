@@ -4,7 +4,7 @@ import Item from "../../common/Item";
 import data from "../../data.json";
 import "../Layout/section.css";
 
-const { docencia } = data;
+const { docencia, supervision } = data;
 
 //TODO: recuerda mirar CV para ver el formato de los items de Docencia y de las demás secciones! (no asumir que son iguales a Académicas)
 
@@ -33,6 +33,27 @@ export default function Docencia() {
           ))}
           
         </section>
+
+        <section className="section">
+          <h2 className="section-heading">Supervisión</h2>
+          {supervision.map((item, index) => (
+            <div key={index} className="publication-container">
+              <p className="publication-item">
+                <span className="student">{item.student}.</span>
+                &nbsp;
+                <span className="title">
+                  <em>{item.title}.</em>
+                &nbsp;
+                  <span className="year">{item.year}.</span>
+                </span>
+                &nbsp;
+                <span className="institucion">{item.institucion}</span>
+                &nbsp;
+              </p>
+            </div>
+          ))}
+        </section>
+
       </main>
       <Footer />
     </div>

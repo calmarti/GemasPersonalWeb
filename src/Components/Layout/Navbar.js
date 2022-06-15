@@ -41,7 +41,7 @@ export default function Navbar() {
         { title: "Divulgación", slug: "/publicaciones/divulgacion" },
       ],
     },
-    { title: "Docencia", slug: "/docencia" },
+    { title: "Docencia y supervisión", slug: "/docencia-y-supervision" },
     { title: "Asesorias y Colaboraciones", slug: "/asesorias-y-colaboraciones" },
     ];
 
