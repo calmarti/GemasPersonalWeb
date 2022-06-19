@@ -66,7 +66,7 @@ export default function Item({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}.
+              {afterBoldAuthor}
             </span>
             &nbsp;
             <span className="title">
@@ -101,14 +101,15 @@ export default function Item({
             &nbsp;
             <span className="publisher">{publisher}.</span>
             &nbsp;
-            <a href={href} className="metadata" target="_blank">
-              {href}.{" "}
-              {/*eliminar el href condicionado a que exista en el item */}
-            </a>
+            {href && (
+              <a href={href} className="metadata" target="_blank">
+                {href}
+              </a>
+            )}
             &nbsp;
             <span className="project">{project}.</span>
             &nbsp;
-            <span className="sponsor">{sponsor}.</span>
+            <span className="sponsor">{sponsor}</span>
             <span className="pages">{pages}</span>
           </p>
         </div>
@@ -153,8 +154,7 @@ export default function Item({
             &nbsp;
             <span className="workshop">{workshop}.</span>
             &nbsp;
-            {tipo &&  <span className="tipo">{tipo}.</span> }
-           
+            {tipo && <span className="tipo">{tipo}.</span>}
           </p>
         </div>
       );
