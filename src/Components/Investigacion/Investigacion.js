@@ -5,8 +5,8 @@ import Item from "../../common/Item";
 
 const { proyectos, workshops } = data;
 
-
 //TODO: resolver el problema de los puntos en registros donde no hay info (meter un condicional en el JSX) y agregar sección de Workshops
+//En proyectos: condicionar el punto a que exista "grants"; en workshops: condicionar el punto a que exista tipo
 
 export default function Investigacion() {
   return (
@@ -31,8 +31,9 @@ export default function Investigacion() {
                 &nbsp;
                 <span className="sponsor">{proyecto.sponsor}.</span>
                 &nbsp;
-                <span className="grants">{proyecto.grants}.</span>
-                &nbsp;
+                { proyecto.grants !== undefined && (
+                  <span className="grants">{proyecto.grants}.</span>
+                )}
               </p>
             </div>
           ))}

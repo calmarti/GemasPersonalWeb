@@ -153,7 +153,8 @@ export default function Item({
             &nbsp;
             <span className="workshop">{workshop}.</span>
             &nbsp;
-            <span className="tipo">{tipo}</span>
+            {tipo &&  <span className="tipo">{tipo}.</span> }
+           
           </p>
         </div>
       );
