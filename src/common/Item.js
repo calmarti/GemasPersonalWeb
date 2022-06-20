@@ -202,7 +202,7 @@ export default function Item({
             &nbsp;
             <span className="year">{year}.</span>
             &nbsp;
-            <span className="curso">{curso}.</span>
+            {curso && <span className="curso">{curso}.</span>}
             &nbsp;
             <span className="lugar">{lugar}.</span>
             &nbsp;

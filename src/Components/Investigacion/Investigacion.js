@@ -6,7 +6,7 @@ import Item from "../../common/Item";
 const { proyectos, workshops } = data;
 
 //TODO: resolver el problema de los puntos en registros donde no hay info (meter un condicional en el JSX) y agregar sección de Workshops
-//TODO: resuelto en Investigación y Académicas; continuar con Congresos ...
+//TODO: continuar con Divulgacion ...
 
 export default function Investigacion() {
   return (
