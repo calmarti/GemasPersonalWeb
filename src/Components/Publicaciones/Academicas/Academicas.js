@@ -2,7 +2,7 @@ import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
 import Item from "../../../common/Item";
-import "../../Layout/section.css";
+// import "../../../section.css";
 
 const { journals, reports, books } = data;
 

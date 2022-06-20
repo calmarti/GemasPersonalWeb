@@ -2,13 +2,10 @@ import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import data from "../../../data.json";
 import Item from "../../../common/Item";
-import "../../Layout/section.css";
+
 
 const { divulgacion } = data;
 
-console.log(divulgacion);
-
-//Problema: no renderiza la lista de items de divulgacion pero no tira error y si se trae el array del json
 
 export default function Divulgacion() {
   return (

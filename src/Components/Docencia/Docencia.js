@@ -1,12 +1,10 @@
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
-import Item from "../../common/Item";
 import data from "../../data.json";
-import "../Layout/section.css";
+// import "../../section.css";
 
 const { docencia, supervision } = data;
 
-//TODO: recuerda mirar CV para ver el formato de los items de Docencia y de las demás secciones! (no asumir que son iguales a Académicas)
 
 export default function Docencia() {
   return (

@@ -5,8 +5,6 @@ import Item from "../../common/Item";
 
 const { proyectos, workshops } = data;
 
-
-
 export default function Investigacion() {
   return (
     <div>

@@ -1,3 +1,3 @@
 export default function NotFound() {
-  <div>Oops, it seems that page doesn't exist...</div>;
+  return "Parece que esa página no existe en nuestro servidor, intenta de nuevo...";
 }

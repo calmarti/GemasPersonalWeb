@@ -17,12 +17,6 @@ export default function Item({
   lugar,
   // spanish,
 }) {
-  /*   const regexEn = /Hernandez-Milian, G./i;
-
-  if (spanish) {
-  const regexSp = /Hernández Milián, G./i;
-  } */
-
   const matched =
     authors.match(/Hernandez-Milian, G./i) ||
     authors.match(/Hernández Milián, G./i) ||
@@ -30,13 +24,14 @@ export default function Item({
     authors.match(/Hernandez Milian, G./) ||
     authors.match(/Hernández, G./i) ||
     authors.match(/Hernandez, G./i);
-  console.log("matched", matched);
+
+  // console.log("matched", matched);
 
   const boldAuthor = matched[0];
   const indexBoldAuthor = authors.search(boldAuthor);
 
-  console.log("Authors", authors);
-  console.log("Name: ", boldAuthor);
+  // console.log("Authors", authors);
+  // console.log("Name: ", boldAuthor);
 
   const boldAuthorElement = <strong>{boldAuthor}</strong>;
 
@@ -46,15 +41,11 @@ export default function Item({
   if (authors.includes(boldAuthor)) {
     if (authors.startsWith(boldAuthor)) {
       afterBoldAuthor = authors.slice(boldAuthor.length);
-      console.log("first her and after", afterBoldAuthor);
     } else if (authors.endsWith(boldAuthor)) {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
-      console.log("before and then her", beforeBoldAuthor);
     } else {
       beforeBoldAuthor = authors.slice(0, indexBoldAuthor);
       afterBoldAuthor = authors.slice(indexBoldAuthor + boldAuthor.length);
-      console.log("before in the middle", beforeBoldAuthor);
-      console.log("in the middle after", afterBoldAuthor);
     }
   }
 
@@ -211,6 +202,6 @@ export default function Item({
         </div>
       );
     default:
-      return "Section with no items yet";
+      return "This section is not defined";
   }
 }
