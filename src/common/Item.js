@@ -174,9 +174,15 @@ export default function Item({
             &nbsp;
             <span className="year">{year}.</span>
             &nbsp;
-            <span className="workshop">{conference}.</span>
+            <span className="conference">{conference}.</span>
             &nbsp;
-            <span className="tipo">{tipo}</span>
+            {href && (
+              <a href={href} className="metadata" target="_blank">
+                {href}
+              </a>
+            )}
+            &nbsp;
+            {tipo && <span className="tipo">{tipo}.</span>}
           </p>
         </div>
       );
