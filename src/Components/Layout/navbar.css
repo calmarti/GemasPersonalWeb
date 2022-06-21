@@ -3,11 +3,12 @@
   top:0;    /* esto fue crucial */
   width: 100%;
   height: var(--navbar-size);
-  background-color: white;
+  background-color: #ffffff;
+  color: #000000;
   font-size: large;
   font-variant: small-caps;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
- /*  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5); */
+/*   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; */
   z-index: 10;
 }
 
@@ -33,13 +34,21 @@
   padding:0.3rem;
 }
 
-.navbar > ul li:hover{
-  /*box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
-  /* box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; */
-  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
-  padding:0.3rem;
- 
+.animated-menu-item{
+  transition: 0.3s ease;
+  background-color: #ffffff;
+  color:  #000000;
+  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
+  padding: 12px 0;
 }
+
+.animated-menu-item:hover{
+  border-top: 2px solid #000000; 
+  border-bottom: 2px solid #000000;
+  padding: 8px 0;
+}
+
 
 .navbar .hide-dropdown {
   display: none;
@@ -57,4 +66,9 @@
   padding: 0.8rem;
   width: 8rem;
   margin-left: 2rem;
+  
+}
+
+.navbar .show-dropdown li:hover{
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
 }

@@ -58,7 +58,7 @@ export default function Navbar() {
             </li>
           ) : (
             <li key={item.title}>
-              <StyledLink to={item.slug}>{item.title}</StyledLink>
+              <StyledLink className="animated-menu-item" to={item.slug}>{item.title}</StyledLink>
             </li>
           )
         )}

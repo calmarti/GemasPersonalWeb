@@ -2,25 +2,26 @@
 
 /* No está importando la font DM-Sans */
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size:100%;
-  font:inherit;
-  font-family: "DM-Sans",  Verdana, "Times New Roman";
+  font-size: 100%;
+  font: inherit;
+  font-family: "DM-Sans", Verdana, "Times New Roman";
   box-sizing: border-box;
 }
 
 :root {
-  --navbar-size:60px;
-  --footer-size:60px;
-  }
-
-#root{
-height:100vh;
+  --navbar-size: 60px;
+  --footer-size: 60px;
 }
 
-.main{
-  padding-top:5rem;
+#root {
+  height: 100vh;
+}
+
+.main {
+  padding-top: 5rem;
 }

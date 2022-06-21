@@ -32,6 +32,7 @@ h1 {
 
   font-weight: 400;
   font-size: 2.20rem;
+  text-shadow: 2px 4px 0px rgba(0,0,0,0.2);
   /*snippet de animación del título desde aqui*/
   transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
