@@ -16,23 +16,23 @@
 .hero-overlay {
   width: 100vw;
   height: 100vh;
-  position: relative; /*  no cambiaría si fuese relative*/
+  position: relative;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.2);
   color: white;
   display: flex;
   flex-flow: column;
   align-items: center;
   justify-content: center;
- /*  font-variant: small-caps; */
+  font-variant: small-caps;
 }
 
 h1 {
 
   font-weight: 400;
   font-size: 2.20rem;
-  /*snippet de animación desde aqui*/
+  /*snippet de animación del título desde aqui*/
   transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
@@ -42,7 +42,6 @@ h1 {
     transform: scale(1);
   }
 }
-
 
 
 h1 > span {
@@ -76,7 +75,7 @@ h1 > span:nth-child(4) {
   }
 }
 
-/*hasta aqui snippet de animación */
+/*hasta aqui snippet de animación del título */
 
 @keyframes subtitle {
   from {left: -300px;}

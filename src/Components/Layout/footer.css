@@ -1,7 +1,10 @@
 .footer {
   background-color: white;
   position: relative;
+  bottom: 80px;
   padding: 0.7rem 0 0.7rem 0;
+  height: var(--footer-size);
+  
  
 }
 
@@ -13,13 +16,14 @@
   gap: 3rem;
 }
 
-.footer > ul > li > a, a:link, a:visited a:hover a:active {
-  text-decoration: none;
-  text-decoration-color:currentColor;
-  color: currentColor
-
-}
 
 .icon:hover{
   transform: scale(1.3);
 }
+
+
+/* .footer > ul > li > a, a:link, a:visited a:hover a:active {
+  text-decoration: none;
+  text-decoration-color:currentColor;
+  color: currentColor;
+} */

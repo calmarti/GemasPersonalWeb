@@ -14,6 +14,11 @@ html, body {
 
 :root {
   --navbar-size:60px;
+  --footer-size:60px;
+  }
+
+#root{
+height:100vh;
 }
 
 .main{
