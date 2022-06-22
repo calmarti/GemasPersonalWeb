@@ -5,7 +5,8 @@ import { BrowserRouter } from "react-router-dom";
 import "./globals.css";
 import "./section.css"
 
-ç
+//scp /Desktop/bootcampweb-kc.pem -r build  ubuntu@54.164.117.110:/var/www/html 
+
 //¿seccion fotos?
 //Gema: revisión exhaustiva de los items, agregar nuevos items, corregir typos y demás
 //TODO: leer todo el código: identificar potenciales mejoras en naming, estructura de ficheros, legibilidad y no-redundancia o inutilización de propiedades y clases CSS
