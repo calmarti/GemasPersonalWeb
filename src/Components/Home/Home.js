@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Navbar />
       <Hero />
-      <Footer />
+      <Footer marginTop="-80px"/>
     </>
   );
 }

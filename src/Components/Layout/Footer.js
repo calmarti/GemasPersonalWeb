@@ -1,8 +1,8 @@
 import "../Layout/footer.css";
 
-export default function Footer() {
+export default function Footer({marginTop}) {
   return (
-    <div className="footer">
+    <div  style={{marginTop:marginTop}}  className="footer">
       <ul>
         <li>©2022</li>
         <li>

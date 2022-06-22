@@ -1,11 +1,11 @@
 .footer {
+  margin-top:120px;
+  /*  bottom: 80px; */
   background-color: white;
   position: relative;
-  bottom: 80px;
   padding: 0.7rem 0 0.7rem 0;
   height: var(--footer-size);
-  
- 
+
 }
 
 .footer > ul {

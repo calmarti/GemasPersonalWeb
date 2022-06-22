@@ -5,9 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 import "./globals.css";
 import "./section.css"
 
-//TODO: problema: espacio debajo del footer en todos los subcomponentes que no son Publicaciones
-
-//TODO: tipografía, mejorar efectos de sombreado de items (suavizarlo!), 
+ç
 //¿seccion fotos?
 //Gema: revisión exhaustiva de los items, agregar nuevos items, corregir typos y demás
 //TODO: leer todo el código: identificar potenciales mejoras en naming, estructura de ficheros, legibilidad y no-redundancia o inutilización de propiedades y clases CSS
