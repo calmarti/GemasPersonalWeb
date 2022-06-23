@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 import "./globals.css";
 import "./section.css"
 
-//scp /Desktop/bootcampweb-kc.pem -r build  ubuntu@54.164.117.110:/var/www/html 
+// scp -i /home/ivan/Desktop/bootcampweb-kc.pem -r build  ubuntu@54.164.117.110:/var/www/html 
 
 //¿seccion fotos?
 //Gema: revisión exhaustiva de los items, agregar nuevos items, corregir typos y demás
