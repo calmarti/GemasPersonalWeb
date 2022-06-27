@@ -1,7 +1,7 @@
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
 import data from "../../data.json";
-// import "../../section.css";
+
 
 const { docencia, supervision } = data;
 
@@ -31,6 +31,10 @@ export default function Docencia() {
           ))}
           
         </section>
+
+        <br/>
+        <br/>
+        
 
         <section className="section">
           <h2 className="section-heading">Supervisión</h2>

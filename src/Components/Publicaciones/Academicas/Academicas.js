@@ -32,6 +32,9 @@ export default function Academicas() {
           ))}
         </section>
 
+        <br />
+        <br />
+
         <section className="section">
           <h2 className="section-heading">
             Informes y publicaciones no arbitradas
@@ -52,6 +55,9 @@ export default function Academicas() {
             />
           ))}
         </section>
+
+        <br />
+        <br />
 
         <section className="section">
           <h2 className="section-heading">Libros, boletines y monografías</h2>

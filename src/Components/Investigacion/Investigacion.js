@@ -35,6 +35,8 @@ export default function Investigacion() {
             </div>
           ))}
         </section>
+        <br/>
+        <br/>
         <section className="section">
           <h2 className="section-heading">Workshops</h2>
           {workshops.map((item, index) => (

@@ -60,11 +60,11 @@ export default function Item({
               {afterBoldAuthor}
             </span>
             &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
             <span className="title">
               <em>{title}</em>.
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             <span className="publisher">{publisher}.</span>
             &nbsp;
@@ -84,11 +84,11 @@ export default function Item({
               {afterBoldAuthor}.
             </span>
             &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
             <span className="title">
               <em>{title}.</em>
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             <span className="publisher">{publisher}.</span>
             &nbsp;
@@ -115,11 +115,11 @@ export default function Item({
               {afterBoldAuthor}.
             </span>
             &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
             <span className="title">
               <em>{title}.</em>
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             <span className="publisher">{publisher}.</span>
             &nbsp;
@@ -134,14 +134,14 @@ export default function Item({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}.
+              {afterBoldAuthor}
             </span>
+            &nbsp;
+            <span className="year">{year}.</span>
             &nbsp;
             <span className="title">
               <em>{title}.</em>
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             <span className="workshop">{workshop}.</span>
             &nbsp;
@@ -156,14 +156,14 @@ export default function Item({
             <span className="authors">
               {beforeBoldAuthor}
               {boldAuthorElement}
-              {afterBoldAuthor}.
+              {afterBoldAuthor}
             </span>
+            &nbsp;
+            <span className="year">{year}.</span>
             &nbsp;
             <span className="title">
               <em>{title}.</em>
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             <span className="conference">{conference}.</span>
             &nbsp;
@@ -187,11 +187,11 @@ export default function Item({
               {afterBoldAuthor}
             </span>
             &nbsp;
+            <span className="year">{year}.</span>
+            &nbsp;
             <span className="title">
               <em>{title}.</em>
             </span>
-            &nbsp;
-            <span className="year">{year}.</span>
             &nbsp;
             {curso && <span className="curso">{curso}.</span>}
             &nbsp;

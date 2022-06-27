@@ -1,7 +1,7 @@
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
 import data from "../../data.json";
-// import "../../section.css";
+
 
 const { asesorias } = data;
 
