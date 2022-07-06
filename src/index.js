@@ -7,7 +7,6 @@ import "./section.css";
 
 // scp -i /home/ivan/Desktop/bootcampweb-kc.pem -r build  ubuntu@54.164.117.110:/home/ubuntu
 
-//TODO: títulos de las secciones en azul
 //TODO: construye un popover activable con click (con librería floating-ui) contentivo de una imagen ilustrativa y la descripción del proyectos
 //revisión exhaustiva de los items con Gema
 //fotos en algunas secciones (i.e. Docencia, Proyectos) para darle + vida

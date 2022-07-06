@@ -11,6 +11,8 @@ body {
   font: inherit;
   font-family: "DM-Sans", Verdana, "Times New Roman";
   box-sizing: border-box;
+  color: #06283D;
+  background-color: #EAF6F6;
 }
 
 :root {
