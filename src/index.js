@@ -6,8 +6,8 @@ import "./globals.css";
 import "./section.css";
 
 // scp -i /home/ivan/Desktop/bootcampweb-kc.pem -r build  ubuntu@54.164.117.110:/home/ubuntu
-
-//TODO: construye un popover activable con click (con librería floating-ui) contentivo de una imagen ilustrativa y la descripción del proyectos
+//TODO: Investigación: un popover activable con click (con librería floating-ui) contentivo de una imagen ilustrativa y la descripción del proyectos
+//TODO: en el popover de la tesis aparecerá el logo, en los otros proyectos una imagen
 //revisión exhaustiva de los items con Gema
 //fotos en algunas secciones (i.e. Docencia, Proyectos) para darle + vida
 //Gema: revisión exhaustiva de los items, agregar nuevos items, corregir typos y demás

@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
 
 /* No está importando la font DM-Sans */
 
@@ -9,7 +10,7 @@ body {
   border: 0;
   font-size: 100%;
   font: inherit;
-  font-family: "DM-Sans", Verdana, "Times New Roman";
+  font-family: "Noto Sans", "DM-Sans", Verdana, "Times New Roman";
   box-sizing: border-box;
   color: #06283D;
   background-color: #EAF6F6;

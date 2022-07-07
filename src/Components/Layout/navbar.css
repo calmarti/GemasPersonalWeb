@@ -161,15 +161,15 @@ height: calc(100vh - var(--footer-size) - var(--navbar-size));
     transition: 0.3s ease;
     background-color: #ffffff;
     color: #000000;
-    border-top: 2px solid #ffffff;
-    border-bottom: 2px solid #ffffff;
+    border-top: 0.5px solid #ffffff;
+    border-bottom: 0.5px solid #ffffff;
     padding: 12px 0;
   }
 
   .animated-menu-item:hover {
     border-top: 2px solid #000000;
     border-bottom: 2px solid #000000;
-    padding: 8px 0;
+    padding: 6px 0;
   }
 
   .navbar .hide-dropdown {
