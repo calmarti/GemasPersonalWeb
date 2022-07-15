@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 
 /* No está importando la font DM-Sans */
 
@@ -8,12 +10,11 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
   font: inherit;
-  font-family: "Noto Sans", "DM-Sans", Verdana, "Times New Roman";
+  font-family:  "Open Sans",   "Noto Sans", "DM-Sans",  Verdana,  "Times New Roman";
   box-sizing: border-box;
-  color: #06283D;
-  background-color: #EAF6F6;
+  color: #06283d;
+  background-color: #eaf6f6;
 }
 
 :root {

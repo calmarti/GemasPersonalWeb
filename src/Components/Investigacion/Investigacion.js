@@ -2,6 +2,10 @@ import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
 import data from "../../data.json";
 import Item from "../../common/Item";
+import ProyectoPopover from "./ProyectoPopover";
+
+//TODO: no renderiza el popover; propiedad children no parece aplicar a ProyectoPopover
+
 
 const { proyectos, workshops } = data;
 
@@ -15,6 +19,7 @@ export default function Investigacion() {
 
           {proyectos.map((proyecto, index) => (
             <div key={index} className="publication-container">
+              <ProyectoPopover>          
               <p className="publication-item">
                 <span className="title">
                   <em>{proyecto.nombre}.</em>
@@ -32,6 +37,7 @@ export default function Investigacion() {
                   <span className="grants">{proyecto.grants}.</span>
                 )}
               </p>
+              </ProyectoPopover>
             </div>
           ))}
         </section>
