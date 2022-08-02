@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap');
 
 
 /* No está importando la font DM-Sans */
@@ -11,7 +12,7 @@ body {
   padding: 0;
   border: 0;
   font: inherit;
-  font-family:  "Open Sans",   "Noto Sans", "DM-Sans",  Verdana,  "Times New Roman";
+  font-family: "Karla", "Open Sans",   "Noto Sans", "DM-Sans",  Verdana,  "Times New Roman";
   box-sizing: border-box;
   color: #06283d;
   background-color: #eaf6f6;
