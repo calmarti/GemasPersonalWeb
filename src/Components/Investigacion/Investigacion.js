@@ -19,7 +19,8 @@ export default function Investigacion() {
 
           {proyectos.map((proyecto, index) => (
             <div key={index} className="publication-container">
-              <ProyectoPopover>          
+              <ProyectoPopover > 
+                <>
               <p className="publication-item">
                 <span className="title">
                   <em>{proyecto.nombre}.</em>
@@ -37,7 +38,8 @@ export default function Investigacion() {
                   <span className="grants">{proyecto.grants}.</span>
                 )}
               </p>
-              </ProyectoPopover>
+              </>    
+              </ProyectoPopover>  
             </div>
           ))}
         </section>
