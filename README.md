@@ -3,10 +3,9 @@
 ## Bióloga Marina
  Bióloga marina especializada en ecología trófica y microplásticos
 
-## Web personal
+## Web personal - SPA (React)
 ---
 
 ```sh
 https://gemahernandezmilian.calmartiportfolio.com
 ```
-

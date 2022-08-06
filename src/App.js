@@ -7,7 +7,7 @@ import Divulgacion from "./Components/Publicaciones/Divulgacion/Divulgacion";
 import Docencia from "./Components/Docencia/Docencia";
 import Asesorias from "./Components/Asesorias/Asesorias";
 import NotFound from "./NotFound";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css'; //TODO: buscar workaround: esto eliminó el centrado de las opciones del NavBar
 
 function App() {
   return (
