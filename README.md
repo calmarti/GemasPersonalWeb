@@ -3,7 +3,7 @@
 ## Bióloga Marina
  Bióloga marina especializada en ecología trófica y microplásticos
 
-## Web personal - SPA (ReactWW)
+## Web personal - SPA (React)
 ---
 
 ```sh
